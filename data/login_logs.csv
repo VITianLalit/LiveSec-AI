@@ -1,0 +1,889 @@
+timestamp,username,ip_address,country,success,user_agent
+2025-09-19 18:32:06,alice.smith,123.59.77.86,Australia,True,Mozilla/5.0 (Android 2.3.1; Mobile; rv:55.0) Gecko/55.0 Firefox/55.0
+2025-09-19 18:32:07,alice.smith,115.178.45.217,Russia,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6830-01-30 21:45:29 Firefox/13.0
+2025-09-19 18:32:08,alice.smith,152.5.17.143,Japan,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_1; rv:1.9.4.20) Gecko/2417-04-08 16:58:47 Firefox/3.6.13
+2025-09-19 18:32:10,carol.white,96.202.39.175,USA,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:6.0; xh-ZA) AppleWebKit/534.14.1 (KHTML, like Gecko) Version/5.0.1 Safari/534.14.1"
+2025-09-19 18:32:11,carol.white,51.68.3.199,UK,False,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ff-SN) AppleWebKit/534.39.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.39.7"
+2025-09-19 18:32:14,bob.jones,218.188.187.192,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.0)
+2025-09-19 18:32:15,bob.jones,130.17.43.153,Brazil,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.1)
+2025-09-19 18:32:16,david.brown,8.227.84.61,Germany,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.1)
+2025-09-19 18:32:17,carol.white,149.194.248.96,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; cv-RU) AppleWebKit/532.17.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.17.6"
+2025-09-19 18:32:18,bob.jones,223.157.138.85,USA,True,Opera/9.14.(Windows NT 5.0; br-FR) Presto/2.9.160 Version/10.00
+2025-09-19 18:32:21,alice.smith,87.229.252.210,Canada,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.0)
+2025-09-19 18:32:22,bob.jones,1.101.111.227,USA,True,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/534.9.4 (KHTML, like Gecko) Version/5.0 Safari/534.9.4"
+2025-09-19 18:32:23,david.brown,117.118.118.249,Germany,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+2025-09-19 18:32:24,bob.jones,77.201.171.37,Brazil,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; sat-IN) AppleWebKit/534.43.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6534.43.2"
+2025-09-19 18:32:25,eve.davis,123.29.47.23,Australia,True,Mozilla/5.0 (Android 4.0; Mobile; rv:60.0) Gecko/60.0 Firefox/60.0
+2025-09-19 18:32:26,eve.davis,201.211.128.92,Japan,True,Opera/9.91.(X11; Linux i686; ayc-PE) Presto/2.9.174 Version/12.00
+2025-09-19 18:32:27,alice.smith,62.71.60.159,UK,True,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.30.4 (KHTML, like Gecko) Version/5.0 Safari/531.30.4"
+2025-09-19 18:32:28,root,223.168.39.92,Australia,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_5; rv:1.9.6.20) Gecko/3365-09-15 10:21:09 Firefox/11.0
+2025-09-19 18:32:29,bob.jones,90.36.90.8,Brazil,True,"Mozilla/5.0 (Linux; Android 6.0.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/42.0.806.0 Safari/533.2"
+2025-09-19 18:32:32,eve.davis,61.98.132.80,China,False,"Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/22.0.896.0 Safari/533.0"
+2025-09-19 18:32:33,david.brown,215.30.3.146,Brazil,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.1)
+2025-09-19 18:32:34,carol.white,155.183.232.7,North Korea,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/56.0.828.0 Mobile/96W769 Safari/531.2"
+2025-09-19 18:32:35,root,167.208.32.4,Germany,True,Mozilla/5.0 (Windows 95; szl-PL; rv:1.9.0.20) Gecko/6309-04-25 20:04:09 Firefox/3.8
+2025-09-19 18:32:36,eve.davis,163.1.123.112,UK,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/3.0)
+2025-09-19 18:32:37,bob.jones,214.154.89.187,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.1)
+2025-09-19 18:32:41,eve.davis,184.208.64.88,France,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.1)
+2025-09-19 18:32:42,david.brown,169.194.119.99,Germany,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/54.0.809.0 Safari/532.0"
+2025-09-19 18:32:43,bob.jones,100.158.89.210,Brazil,True,"Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/32.0.809.0 Safari/532.1"
+2025-09-19 18:32:45,alice.smith,37.98.252.228,Germany,False,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_7 rv:4.0; bg-BG) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.0 Safari/534.48.3"
+2025-09-19 18:32:47,carol.white,32.47.10.166,Germany,True,"Mozilla/5.0 (Linux; Android 11) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/29.0.807.0 Safari/531.1"
+2025-09-19 18:32:48,alice.smith,126.116.251.47,Canada,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.1)
+2025-09-19 18:32:49,david.brown,18.227.87.85,Germany,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_5) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/23.0.885.0 Safari/536.1"
+2025-09-19 18:32:51,eve.davis,42.183.233.94,Germany,True,Opera/8.22.(X11; Linux i686; kk-KZ) Presto/2.9.176 Version/10.00
+2025-09-19 18:32:52,david.brown,183.227.158.146,France,True,Opera/8.14.(X11; Linux x86_64; iw-IL) Presto/2.9.168 Version/12.00
+2025-09-19 18:32:53,carol.white,129.214.210.48,Australia,True,Mozilla/5.0 (Windows NT 11.0; so-SO; rv:1.9.1.20) Gecko/2108-12-29 08:35:06 Firefox/3.8
+2025-09-19 18:32:54,david.brown,103.207.56.217,Brazil,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9255-08-12 04:28:11 Firefox/4.0
+2025-09-19 18:32:55,root,107.4.74.147,North Korea,True,Mozilla/5.0 (Android 3.2.5; Mobile; rv:36.0) Gecko/36.0 Firefox/36.0
+2025-09-19 18:32:56,bob.jones,85.46.200.73,Brazil,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/42.0.876.0 Mobile/56Z184 Safari/531.2"
+2025-09-19 18:32:58,david.brown,40.191.253.187,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.1)
+2025-09-19 18:32:59,alice.smith,25.174.185.107,USA,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0)
+2025-09-19 18:33:00,eve.davis,74.228.31.47,Canada,True,Opera/9.20.(X11; Linux i686; szl-PL) Presto/2.9.183 Version/10.00
+2025-09-19 18:33:01,david.brown,94.216.74.192,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.0)
+2025-09-19 18:33:03,alice.smith,201.255.7.76,France,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)
+2025-09-19 18:33:04,bob.jones,191.5.120.172,Canada,False,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_6; rv:1.9.6.20) Gecko/6201-12-16 23:33:20 Firefox/3.6.2
+2025-09-19 18:33:05,carol.white,215.191.96.190,North Korea,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; lt-LT) AppleWebKit/534.27.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.27.7"
+2025-09-19 18:33:09,eve.davis,131.109.3.182,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/11.7t4627.0 Mobile/07G570 Safari/535.2"
+2025-09-19 18:33:10,security_admin,109.103.168.168,Canada,True,Opera/9.38.(Windows NT 5.01; tk-TM) Presto/2.9.184 Version/12.00
+2025-09-19 18:33:11,carol.white,137.120.188.24,Brazil,True,Mozilla/5.0 (Android 4.4.3; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0
+2025-09-19 18:33:12,carol.white,186.158.186.189,Germany,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.1)
+2025-09-19 18:33:13,admin,217.185.97.60,USA,True,Mozilla/5.0 (Android 3.2.3; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0
+2025-09-19 18:33:16,david.brown,168.11.146.114,USA,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_3; rv:1.9.2.20) Gecko/7388-02-22 20:24:46 Firefox/3.8
+2025-09-19 18:33:17,carol.white,30.11.158.95,UK,True,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.36.4 (KHTML, like Gecko) Version/5.0 Safari/534.36.4"
+2025-09-19 18:33:18,alice.smith,64.2.148.232,Brazil,False,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/41.0.891.0 Safari/534.1"
+2025-09-19 18:33:19,alice.smith,198.177.100.20,Japan,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/21.0.862.0 Mobile/96X288 Safari/532.1"
+2025-09-19 18:33:20,alice.smith,216.110.46.42,UK,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.0)
+2025-09-19 18:33:21,david.brown,38.21.10.89,Brazil,True,Opera/8.45.(Windows NT 5.0; si-LK) Presto/2.9.180 Version/11.00
+2025-09-19 18:33:23,admin,129.198.133.136,Russia,False,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_2; rv:1.9.2.20) Gecko/6852-07-09 17:50:04 Firefox/12.0
+2025-09-19 18:33:24,david.brown,165.103.207.180,USA,True,"Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/46.0.802.0 Safari/531.2"
+2025-09-19 18:33:25,carol.white,198.95.162.112,Brazil,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/55.0.817.0 Mobile/54N199 Safari/534.2"
+2025-09-19 18:33:27,eve.davis,121.43.149.219,USA,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/49.0.816.0 Safari/531.1"
+2025-09-19 18:33:28,bob.jones,100.247.110.40,Germany,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5 rv:3.0; hne-IN) AppleWebKit/534.25.4 (KHTML, like Gecko) Version/4.0 Safari/534.25.4"
+2025-09-19 18:33:29,david.brown,6.125.125.37,USA,True,Mozilla/5.0 (Android 4.3; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0
+2025-09-19 18:33:30,bob.jones,8.26.100.83,Germany,True,Opera/9.72.(X11; Linux i686; nb-NO) Presto/2.9.173 Version/10.00
+2025-09-19 18:33:32,carol.white,49.77.21.134,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_3_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/11.7w3803.0 Mobile/10A541 Safari/534.1"
+2025-09-19 18:33:33,david.brown,196.155.86.220,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1)
+2025-09-19 18:33:34,eve.davis,210.212.222.22,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; km-KH) AppleWebKit/534.47.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.47.4"
+2025-09-19 18:33:35,carol.white,65.255.12.246,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; lb-LU) AppleWebKit/535.43.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6535.43.7"
+2025-09-19 18:33:36,alice.smith,164.115.47.42,Brazil,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.1)
+2025-09-19 18:33:39,eve.davis,185.29.66.157,China,False,Opera/8.90.(Windows 95; lo-LA) Presto/2.9.162 Version/10.00
+2025-09-19 18:33:40,carol.white,157.80.102.176,Germany,True,Opera/9.99.(Windows NT 6.1; id-ID) Presto/2.9.171 Version/12.00
+2025-09-19 18:33:41,alice.smith,9.202.55.204,Brazil,True,"Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/32.0.814.0 Safari/533.0"
+2025-09-19 18:33:42,alice.smith,184.253.223.72,France,True,Opera/9.22.(X11; Linux i686; ln-CD) Presto/2.9.169 Version/12.00
+2025-09-19 18:33:43,eve.davis,132.84.24.129,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; tk-TM) AppleWebKit/534.12.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.12.1"
+2025-09-19 18:33:44,alice.smith,179.106.216.157,USA,True,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.5.7 (KHTML, like Gecko) Version/4.1 Safari/534.5.7"
+2025-09-19 18:33:45,alice.smith,37.133.20.89,Japan,True,Opera/8.37.(X11; Linux x86_64; fil-PH) Presto/2.9.163 Version/11.00
+2025-09-19 18:33:46,eve.davis,52.148.199.96,North Korea,True,Opera/9.55.(Windows 98; Win 9x 4.90; szl-PL) Presto/2.9.180 Version/11.00
+2025-09-19 18:33:47,security_admin,18.30.189.243,Australia,True,Opera/9.63.(X11; Linux x86_64; yue-HK) Presto/2.9.162 Version/12.00
+2025-09-19 18:33:48,bob.jones,182.129.100.223,Australia,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_8; rv:1.9.4.20) Gecko/8709-06-22 23:28:00 Firefox/3.8
+2025-09-19 18:33:49,david.brown,136.35.41.157,North Korea,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1)
+2025-09-19 18:33:50,eve.davis,206.180.160.27,Canada,True,Opera/9.33.(Windows NT 5.0; tr-TR) Presto/2.9.176 Version/10.00
+2025-09-19 18:33:51,david.brown,134.175.97.95,Iran,True,Opera/8.84.(Windows NT 6.0; iw-IL) Presto/2.9.168 Version/10.00
+2025-09-19 18:33:53,bob.jones,65.82.185.197,Brazil,True,Opera/9.53.(Windows 95; lij-IT) Presto/2.9.162 Version/10.00
+2025-09-19 18:33:54,bob.jones,65.153.136.56,France,True,Opera/8.16.(X11; Linux x86_64; nb-NO) Presto/2.9.184 Version/12.00
+2025-09-19 18:33:59,bob.jones,129.56.209.16,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/15.0.840.0 Mobile/35X730 Safari/531.2"
+2025-09-19 18:34:01,eve.davis,125.249.10.230,Canada,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_8; rv:1.9.2.20) Gecko/7299-03-01 04:58:49 Firefox/3.8
+2025-09-19 18:34:02,carol.white,163.86.51.48,Germany,True,"Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/29.0.877.0 Safari/536.2"
+2025-09-19 18:34:05,alice.smith,24.81.4.216,North Korea,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.1)
+2025-09-19 18:34:06,carol.white,106.80.137.113,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/15.3q9993.0 Mobile/94H903 Safari/536.1"
+2025-09-19 18:34:07,eve.davis,84.238.162.139,China,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_7 rv:2.0; hi-IN) AppleWebKit/532.44.1 (KHTML, like Gecko) Version/5.0 Safari/532.44.1"
+2025-09-19 18:34:09,alice.smith,15.241.132.229,Canada,True,Opera/9.79.(X11; Linux i686; mr-IN) Presto/2.9.172 Version/12.00
+2025-09-19 18:34:10,alice.smith,53.160.130.126,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.1.1 (KHTML, like Gecko) Version/5.0 Safari/531.1.1"
+2025-09-19 18:34:12,carol.white,41.141.195.184,Brazil,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/5.1)
+2025-09-19 18:34:13,carol.white,144.250.110.142,Canada,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9041-06-14 21:29:43 Firefox/12.0
+2025-09-19 18:34:18,david.brown,174.37.207.221,France,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:34:20,security_admin,22.153.24.164,China,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0)
+2025-09-19 18:34:21,eve.davis,38.51.67.80,China,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.0)
+2025-09-19 18:34:23,eve.davis,43.46.247.95,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.1)
+2025-09-19 18:34:24,bob.jones,62.66.209.146,France,True,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/531.12.3 (KHTML, like Gecko) Version/4.1 Safari/531.12.3"
+2025-09-19 18:34:25,eve.davis,48.157.91.95,USA,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)
+2025-09-19 18:34:27,bob.jones,87.145.182.208,Canada,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_5 rv:4.0; sq-AL) AppleWebKit/531.16.3 (KHTML, like Gecko) Version/4.1 Safari/531.16.3"
+2025-09-19 18:34:30,bob.jones,94.87.128.209,Australia,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.0)
+2025-09-19 18:34:31,alice.smith,132.125.207.170,France,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8721-06-03 18:02:28 Firefox/3.6.15
+2025-09-19 18:34:32,carol.white,63.198.171.200,Brazil,True,Opera/8.65.(X11; Linux i686; da-DK) Presto/2.9.190 Version/10.00
+2025-09-19 18:34:33,admin,152.248.84.26,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; pl-PL) AppleWebKit/534.35.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.35.5"
+2025-09-19 18:34:34,bob.jones,73.136.70.181,Japan,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.1)
+2025-09-19 18:34:36,alice.smith,174.28.56.91,Canada,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.1)
+2025-09-19 18:34:38,carol.white,154.168.97.142,Russia,True,Mozilla/5.0 (Windows CE; sw-KE; rv:1.9.1.20) Gecko/4526-04-13 01:09:14 Firefox/3.8
+2025-09-19 18:34:39,sysadmin,62.18.43.142,Germany,True,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/22.0.854.0 Mobile/90G253 Safari/534.2"
+2025-09-19 18:34:40,alice.smith,195.238.66.244,Germany,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/3309-10-04 09:21:31 Firefox/13.0
+2025-09-19 18:34:41,alice.smith,75.189.203.131,Australia,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6456-08-10 00:37:38 Firefox/3.8
+2025-09-19 18:34:42,david.brown,118.210.163.91,France,True,Opera/9.99.(Windows NT 5.1; sw-KE) Presto/2.9.175 Version/11.00
+2025-09-19 18:34:43,carol.white,156.184.83.195,Germany,True,Opera/8.32.(Windows 98; vi-VN) Presto/2.9.173 Version/11.00
+2025-09-19 18:34:44,bob.jones,160.139.147.241,France,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/533.5.4 (KHTML, like Gecko) Version/4.1 Safari/533.5.4"
+2025-09-19 18:34:46,bob.jones,9.196.162.148,Brazil,True,"Mozilla/5.0 (Linux; Android 3.2.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/14.0.813.0 Safari/534.0"
+2025-09-19 18:34:49,eve.davis,72.190.1.44,Canada,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.1)
+2025-09-19 18:34:51,sysadmin,13.131.33.34,UK,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.1)
+2025-09-19 18:34:52,bob.jones,75.3.181.224,Iran,True,Opera/8.40.(Windows NT 6.0; mr-IN) Presto/2.9.185 Version/12.00
+2025-09-19 18:34:53,carol.white,18.92.238.43,Brazil,True,Opera/9.36.(X11; Linux i686; hne-IN) Presto/2.9.182 Version/12.00
+2025-09-19 18:34:55,security_admin,155.190.43.109,France,True,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/63.0.802.0 Safari/533.1"
+2025-09-19 18:34:56,alice.smith,37.139.138.118,China,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_9 rv:2.0; mni-IN) AppleWebKit/534.16.7 (KHTML, like Gecko) Version/4.0 Safari/534.16.7"
+2025-09-19 18:34:58,bob.jones,206.228.162.185,France,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/16.0.851.0 Safari/532.1"
+2025-09-19 18:34:59,alice.smith,102.61.195.219,Germany,True,Opera/9.39.(Windows CE; sid-ET) Presto/2.9.180 Version/10.00
+2025-09-19 18:35:00,carol.white,208.174.209.23,UK,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.1)
+2025-09-19 18:35:01,eve.davis,129.51.249.32,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/13.7t1579.0 Mobile/23B443 Safari/535.1"
+2025-09-19 18:35:02,david.brown,52.106.187.91,Iran,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_1 rv:4.0; sl-SI) AppleWebKit/533.31.7 (KHTML, like Gecko) Version/5.0.4 Safari/533.31.7"
+2025-09-19 18:35:04,bob.jones,126.250.49.255,Iran,True,Mozilla/5.0 (Android 2.3.7; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0
+2025-09-19 18:35:05,eve.davis,222.192.120.73,Japan,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.1)
+2025-09-19 18:35:07,bob.jones,20.37.173.77,Australia,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.0)
+2025-09-19 18:35:08,root,110.32.129.237,Brazil,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_1; rv:1.9.3.20) Gecko/6351-03-07 00:08:18 Firefox/3.8
+2025-09-19 18:35:09,carol.white,21.142.28.240,North Korea,True,Opera/9.12.(X11; Linux i686; hne-IN) Presto/2.9.180 Version/11.00
+2025-09-19 18:35:10,bob.jones,23.87.97.104,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.0)
+2025-09-19 18:35:12,eve.davis,204.48.64.142,France,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_4; rv:1.9.2.20) Gecko/4668-01-30 01:26:05 Firefox/3.8
+2025-09-19 18:35:13,david.brown,87.248.107.105,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/16.1o9171.0 Mobile/89K433 Safari/533.0"
+2025-09-19 18:35:14,david.brown,125.26.183.32,China,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.1)
+2025-09-19 18:35:16,eve.davis,201.176.1.228,France,True,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.49.6 (KHTML, like Gecko) Version/5.1 Safari/533.49.6"
+2025-09-19 18:35:17,eve.davis,166.127.26.54,USA,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_7; rv:1.9.5.20) Gecko/5033-07-08 07:33:35 Firefox/3.6.2
+2025-09-19 18:35:19,carol.white,153.252.225.138,UK,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/4.0)
+2025-09-19 18:35:20,carol.white,86.218.171.55,Japan,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.0)
+2025-09-19 18:35:24,alice.smith,205.15.142.138,Australia,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5647-10-23 12:32:58 Firefox/3.6.1
+2025-09-19 18:35:26,eve.davis,52.180.224.47,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.0)
+2025-09-19 18:35:27,bob.jones,147.5.225.193,Japan,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/27.0.838.0 Safari/534.1"
+2025-09-19 18:35:28,eve.davis,28.173.136.245,Germany,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9 rv:4.0; ps-AF) AppleWebKit/532.24.1 (KHTML, like Gecko) Version/4.0.3 Safari/532.24.1"
+2025-09-19 18:35:29,carol.white,190.233.125.203,Canada,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/51.0.805.0 Safari/535.0"
+2025-09-19 18:35:32,bob.jones,151.128.191.32,France,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.0)
+2025-09-19 18:35:33,eve.davis,146.115.83.71,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)
+2025-09-19 18:35:37,eve.davis,134.31.71.132,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/62.0.849.0 Mobile/29V984 Safari/532.0"
+2025-09-19 18:35:40,alice.smith,157.110.30.151,Australia,True,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/47.0.879.0 Mobile/47U852 Safari/532.1"
+2025-09-19 18:35:41,eve.davis,190.23.149.253,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/10.3y1442.0 Mobile/88X529 Safari/532.0"
+2025-09-19 18:35:43,eve.davis,13.181.74.208,Germany,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.0)
+2025-09-19 18:35:44,carol.white,5.128.85.109,Canada,True,"Mozilla/5.0 (Linux; Android 11) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/31.0.867.0 Safari/533.1"
+2025-09-19 18:35:45,bob.jones,210.251.30.18,USA,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/6157-06-05 09:36:52 Firefox/3.6.3
+2025-09-19 18:35:46,bob.jones,26.99.18.5,Japan,False,"Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/17.9v2764.0 Mobile/87X364 Safari/534.0"
+2025-09-19 18:35:48,carol.white,172.191.49.189,Russia,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2063-01-30 21:29:37 Firefox/3.8
+2025-09-19 18:35:49,eve.davis,150.193.162.229,Germany,True,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/13.0.817.0 Mobile/93A225 Safari/531.1"
+2025-09-19 18:35:50,david.brown,123.84.195.172,Iran,True,"Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/26.0.825.0 Safari/533.1"
+2025-09-19 18:35:51,eve.davis,138.50.43.80,Japan,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/37.0.875.0 Safari/536.0"
+2025-09-19 18:35:55,alice.smith,28.212.5.54,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.1)
+2025-09-19 18:35:56,david.brown,151.148.203.111,USA,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1)
+2025-09-19 18:35:59,carol.white,103.49.29.107,Australia,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)
+2025-09-19 18:36:01,carol.white,60.190.158.149,Germany,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.1)
+2025-09-19 18:36:02,bob.jones,60.43.218.247,Japan,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/26.0.893.0 Safari/534.1"
+2025-09-19 18:36:03,carol.white,68.25.194.104,China,False,Opera/8.50.(Windows 98; Win 9x 4.90; hsb-DE) Presto/2.9.182 Version/11.00
+2025-09-19 18:36:07,bob.jones,195.148.43.22,Australia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/61.0.899.0 Mobile/01T057 Safari/533.0"
+2025-09-19 18:36:08,root,46.7.173.21,Canada,True,Mozilla/5.0 (Windows NT 6.2; sv-SE; rv:1.9.0.20) Gecko/9961-07-10 09:32:17 Firefox/3.8
+2025-09-19 18:36:11,alice.smith,126.73.173.162,UK,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.1)
+2025-09-19 18:36:12,bob.jones,212.137.194.77,Brazil,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; os-RU) AppleWebKit/535.24.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.24.1"
+2025-09-19 18:36:13,eve.davis,159.61.244.5,Brazil,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_4; rv:1.9.2.20) Gecko/5034-08-10 05:00:10 Firefox/3.8
+2025-09-19 18:36:14,alice.smith,37.222.244.55,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/10.1h2475.0 Mobile/24R851 Safari/532.2"
+2025-09-19 18:36:15,bob.jones,145.113.58.47,Germany,True,Mozilla/5.0 (Windows 98; Win 9x 4.90; apn-IN; rv:1.9.1.20) Gecko/4899-02-14 17:57:49 Firefox/12.0
+2025-09-19 18:36:16,carol.white,41.52.2.132,Russia,True,Opera/9.20.(X11; Linux i686; raj-IN) Presto/2.9.176 Version/11.00
+2025-09-19 18:36:19,security_admin,163.206.169.30,Germany,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_0; rv:1.9.5.20) Gecko/7464-11-03 13:58:19 Firefox/3.6.11
+2025-09-19 18:36:21,bob.jones,113.195.185.56,UK,True,Mozilla/5.0 (Android 4.0.2; Mobile; rv:59.0) Gecko/59.0 Firefox/59.0
+2025-09-19 18:36:24,alice.smith,129.41.218.23,Canada,True,Mozilla/5.0 (Android 4.0; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0
+2025-09-19 18:36:25,david.brown,137.42.100.3,Japan,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3; rv:1.9.5.20) Gecko/6015-07-11 22:49:36 Firefox/3.8
+2025-09-19 18:36:26,eve.davis,166.45.143.238,UK,True,"Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/60.0.860.0 Mobile/03R673 Safari/536.2"
+2025-09-19 18:36:28,eve.davis,186.198.106.36,Brazil,False,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_5; rv:1.9.4.20) Gecko/4857-06-27 10:34:08 Firefox/3.8
+2025-09-19 18:36:30,security_admin,1.200.127.150,UK,False,Opera/9.15.(Windows NT 6.1; lg-UG) Presto/2.9.188 Version/11.00
+2025-09-19 18:36:31,carol.white,121.243.98.88,USA,True,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/59.0.851.0 Safari/532.2"
+2025-09-19 18:36:32,bob.jones,78.4.242.40,Australia,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.1)
+2025-09-19 18:36:33,bob.jones,219.217.14.53,Germany,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4 rv:4.0; sat-IN) AppleWebKit/533.26.5 (KHTML, like Gecko) Version/5.1 Safari/533.26.5"
+2025-09-19 18:36:35,bob.jones,144.168.158.223,Germany,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/59.0.877.0 Safari/536.1"
+2025-09-19 18:36:36,carol.white,187.151.142.42,UK,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2857-04-09 17:59:28 Firefox/7.0
+2025-09-19 18:36:37,david.brown,217.187.48.86,Brazil,True,"Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/12.1m5759.0 Mobile/69P705 Safari/535.2"
+2025-09-19 18:36:38,carol.white,128.179.195.116,Canada,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/62.0.886.0 Mobile/12G058 Safari/535.0"
+2025-09-19 18:36:40,bob.jones,117.50.76.106,North Korea,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4 rv:2.0; wal-ET) AppleWebKit/531.31.1 (KHTML, like Gecko) Version/5.0.3 Safari/531.31.1"
+2025-09-19 18:36:41,eve.davis,3.171.65.20,Iran,True,Opera/9.81.(Windows NT 5.2; pt-PT) Presto/2.9.163 Version/11.00
+2025-09-19 18:36:42,david.brown,76.131.147.160,Japan,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_0 rv:3.0; el-GR) AppleWebKit/534.29.1 (KHTML, like Gecko) Version/5.0.5 Safari/534.29.1"
+2025-09-19 18:36:43,carol.white,9.111.201.112,Brazil,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.0)
+2025-09-19 18:36:44,bob.jones,145.103.112.252,Germany,True,Opera/8.82.(Windows 98; Win 9x 4.90; ti-ET) Presto/2.9.179 Version/12.00
+2025-09-19 18:36:45,eve.davis,180.39.21.233,Australia,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4 rv:5.0; ug-CN) AppleWebKit/533.42.3 (KHTML, like Gecko) Version/4.0.4 Safari/533.42.3"
+2025-09-19 18:36:46,eve.davis,109.245.46.35,Brazil,True,Opera/9.45.(Windows 98; kw-GB) Presto/2.9.189 Version/12.00
+2025-09-19 18:36:47,alice.smith,57.170.146.4,USA,True,Mozilla/5.0 (Android 12.1; Mobile; rv:62.0) Gecko/62.0 Firefox/62.0
+2025-09-19 18:36:50,david.brown,191.77.214.109,UK,True,Mozilla/5.0 (Windows CE; cmn-TW; rv:1.9.0.20) Gecko/6820-12-11 18:47:34 Firefox/3.8
+2025-09-19 18:36:51,eve.davis,41.124.236.169,North Korea,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.1)
+2025-09-19 18:36:52,david.brown,99.9.171.224,North Korea,True,Opera/9.90.(Windows 98; Win 9x 4.90; es-MX) Presto/2.9.170 Version/10.00
+2025-09-19 18:36:53,admin,81.67.226.231,Brazil,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ga-IE) AppleWebKit/532.27.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6532.27.1"
+2025-09-19 18:36:54,david.brown,60.171.6.40,France,True,Opera/8.68.(X11; Linux x86_64; sd-PK) Presto/2.9.173 Version/11.00
+2025-09-19 18:36:56,root,23.169.255.133,China,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.0)
+2025-09-19 18:36:59,david.brown,151.251.84.94,Canada,True,Opera/8.62.(X11; Linux i686; br-FR) Presto/2.9.171 Version/10.00
+2025-09-19 18:37:00,alice.smith,105.29.111.222,Germany,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; as-IN) AppleWebKit/535.41.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.41.6"
+2025-09-19 18:37:01,david.brown,30.184.131.114,Japan,True,Opera/8.25.(X11; Linux x86_64; tg-TJ) Presto/2.9.171 Version/10.00
+2025-09-19 18:37:05,bob.jones,62.56.226.0,Brazil,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_5 rv:6.0; mk-MK) AppleWebKit/535.40.2 (KHTML, like Gecko) Version/5.0.2 Safari/535.40.2"
+2025-09-19 18:37:06,david.brown,6.157.166.145,Australia,True,Mozilla/5.0 (Android 4.3; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0
+2025-09-19 18:37:07,alice.smith,175.43.137.91,France,True,Opera/9.14.(Windows NT 6.0; ku-TR) Presto/2.9.161 Version/11.00
+2025-09-19 18:37:09,carol.white,73.60.18.150,UK,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_6; rv:1.9.4.20) Gecko/4993-08-17 09:13:21 Firefox/14.0
+2025-09-19 18:37:10,david.brown,33.229.138.36,Canada,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)
+2025-09-19 18:37:11,carol.white,62.43.125.250,Iran,True,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.17.4 (KHTML, like Gecko) Version/5.0.1 Safari/534.17.4"
+2025-09-19 18:37:13,david.brown,106.51.73.196,France,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.1)
+2025-09-19 18:37:14,bob.jones,4.121.248.90,USA,False,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/24.0.893.0 Safari/533.0"
+2025-09-19 18:37:16,alice.smith,17.100.33.230,France,True,"Mozilla/5.0 (Linux; Android 12.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/26.0.839.0 Safari/531.2"
+2025-09-19 18:37:18,david.brown,65.190.71.95,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.0)
+2025-09-19 18:37:19,bob.jones,135.27.174.154,USA,True,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/60.0.836.0 Safari/533.2"
+2025-09-19 18:37:21,eve.davis,186.121.237.135,USA,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/5443-05-22 00:13:56 Firefox/13.0
+2025-09-19 18:37:23,eve.davis,185.118.146.99,Canada,True,Mozilla/5.0 (Windows NT 5.1; or-IN; rv:1.9.1.20) Gecko/8061-08-14 06:47:14 Firefox/8.0
+2025-09-19 18:37:24,carol.white,173.78.116.174,Japan,True,Opera/9.21.(X11; Linux x86_64; sa-IN) Presto/2.9.186 Version/12.00
+2025-09-19 18:37:25,root,45.83.53.230,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 13_5_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/37.0.871.0 Mobile/42Z820 Safari/536.1"
+2025-09-19 18:37:26,alice.smith,81.114.35.220,USA,True,Opera/9.90.(Windows NT 6.2; ce-RU) Presto/2.9.163 Version/11.00
+2025-09-19 18:37:27,bob.jones,32.75.140.157,Germany,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/47.0.857.0 Safari/534.1"
+2025-09-19 18:37:29,david.brown,168.252.57.50,North Korea,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; brx-IN) AppleWebKit/532.27.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6532.27.1"
+2025-09-19 18:37:30,admin,213.77.64.70,UK,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/534.23.3 (KHTML, like Gecko) Version/4.1 Safari/534.23.3"
+2025-09-19 18:37:31,david.brown,217.89.165.254,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 16_7_7 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/17.6h6922.0 Mobile/27E982 Safari/535.1"
+2025-09-19 18:37:32,bob.jones,55.135.173.236,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/48.0.837.0 Mobile/18M052 Safari/534.0"
+2025-09-19 18:37:33,bob.jones,146.36.179.71,Canada,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1)
+2025-09-19 18:37:34,eve.davis,53.34.112.167,Canada,True,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/34.0.897.0 Safari/535.1"
+2025-09-19 18:37:35,admin,38.34.243.195,Canada,True,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.8.1 (KHTML, like Gecko) Version/5.0 Safari/535.8.1"
+2025-09-19 18:37:36,admin,160.150.88.121,Brazil,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/24.0.808.0 Safari/534.1"
+2025-09-19 18:37:37,eve.davis,20.3.78.6,UK,True,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.4.3 (KHTML, like Gecko) Version/5.0 Safari/533.4.3"
+2025-09-19 18:37:38,carol.white,157.213.187.54,North Korea,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ky-KG) AppleWebKit/535.25.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6535.25.5"
+2025-09-19 18:37:40,david.brown,87.172.195.185,France,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_4; rv:1.9.4.20) Gecko/2826-11-13 08:02:37 Firefox/6.0
+2025-09-19 18:37:41,carol.white,181.155.195.37,France,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)
+2025-09-19 18:37:42,alice.smith,196.52.147.39,Japan,True,Opera/8.89.(X11; Linux x86_64; nr-ZA) Presto/2.9.182 Version/12.00
+2025-09-19 18:37:43,david.brown,99.153.188.58,France,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_9) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/62.0.879.0 Safari/536.0"
+2025-09-19 18:37:44,carol.white,154.101.85.15,UK,True,Opera/9.33.(X11; Linux x86_64; quz-PE) Presto/2.9.184 Version/10.00
+2025-09-19 18:37:45,eve.davis,116.161.112.7,Australia,True,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.33.2 (KHTML, like Gecko) Version/5.0 Safari/535.33.2"
+2025-09-19 18:37:46,carol.white,172.81.80.60,UK,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_4) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/24.0.829.0 Safari/533.2"
+2025-09-19 18:37:48,david.brown,39.192.90.156,Japan,True,"Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/63.0.881.0 Safari/535.2"
+2025-09-19 18:37:49,alice.smith,60.189.134.71,Japan,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7212-04-03 22:18:08 Firefox/3.6.10
+2025-09-19 18:37:51,bob.jones,69.197.146.194,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.25.6 (KHTML, like Gecko) Version/5.0 Safari/535.25.6"
+2025-09-19 18:37:52,eve.davis,91.89.76.62,Japan,True,Opera/8.81.(X11; Linux x86_64; cs-CZ) Presto/2.9.188 Version/11.00
+2025-09-19 18:37:54,bob.jones,73.243.135.35,Russia,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 rv:4.0; an-ES) AppleWebKit/534.17.3 (KHTML, like Gecko) Version/5.1 Safari/534.17.3"
+2025-09-19 18:37:57,david.brown,119.157.208.33,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.1)
+2025-09-19 18:37:59,eve.davis,87.146.41.9,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)
+2025-09-19 18:38:02,eve.davis,100.223.175.186,North Korea,True,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.23.3 (KHTML, like Gecko) Version/4.0 Safari/533.23.3"
+2025-09-19 18:38:03,bob.jones,221.178.224.94,USA,True,Opera/9.21.(Windows NT 6.1; yi-US) Presto/2.9.189 Version/11.00
+2025-09-19 18:38:04,david.brown,210.80.203.66,Japan,False,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/27.0.808.0 Mobile/73H150 Safari/531.0"
+2025-09-19 18:38:05,eve.davis,142.49.107.67,Canada,False,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ast-ES) AppleWebKit/531.16.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.16.7"
+2025-09-19 18:38:06,david.brown,150.194.170.226,Brazil,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/44.0.803.0 Safari/533.0"
+2025-09-19 18:38:08,alice.smith,145.237.128.107,North Korea,True,Opera/9.73.(Windows NT 5.0; st-ZA) Presto/2.9.188 Version/12.00
+2025-09-19 18:38:09,bob.jones,93.50.167.235,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; uk-UA) AppleWebKit/532.25.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.25.5"
+2025-09-19 18:38:10,carol.white,198.252.116.161,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.37.2 (KHTML, like Gecko) Version/5.0.2 Safari/535.37.2"
+2025-09-19 18:38:11,eve.davis,138.35.46.77,France,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/3.1)
+2025-09-19 18:38:12,alice.smith,175.108.170.110,Japan,True,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/61.0.898.0 Safari/531.2"
+2025-09-19 18:38:13,alice.smith,55.159.147.147,Russia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/14.4d2608.0 Mobile/81S274 Safari/532.2"
+2025-09-19 18:38:14,david.brown,202.194.34.0,Japan,True,Mozilla/5.0 (Windows CE; oc-FR; rv:1.9.2.20) Gecko/8951-12-04 21:10:06 Firefox/3.6.13
+2025-09-19 18:38:15,eve.davis,206.74.77.150,Germany,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/5.0)
+2025-09-19 18:38:16,david.brown,166.50.188.158,Brazil,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9 rv:3.0; ik-CA) AppleWebKit/532.35.4 (KHTML, like Gecko) Version/5.0.2 Safari/532.35.4"
+2025-09-19 18:38:17,alice.smith,63.81.220.236,Brazil,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.0)
+2025-09-19 18:38:18,david.brown,42.222.190.40,Iran,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/37.0.845.0 Safari/534.2"
+2025-09-19 18:38:20,carol.white,145.243.231.154,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; se-NO) AppleWebKit/534.1.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6534.1.4"
+2025-09-19 18:38:21,eve.davis,17.199.177.235,UK,False,Opera/8.92.(X11; Linux x86_64; pt-BR) Presto/2.9.171 Version/10.00
+2025-09-19 18:38:22,david.brown,75.68.2.45,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; nl-NL) AppleWebKit/531.43.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.43.6"
+2025-09-19 18:38:24,alice.smith,72.68.58.67,Australia,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2560-06-21 18:08:19 Firefox/3.8
+2025-09-19 18:38:25,bob.jones,62.32.92.41,Canada,True,Opera/9.22.(Windows NT 4.0; brx-IN) Presto/2.9.160 Version/12.00
+2025-09-19 18:38:27,eve.davis,57.189.213.49,Japan,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; pl-PL) AppleWebKit/533.20.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.20.5"
+2025-09-19 18:38:28,eve.davis,206.57.65.44,Japan,True,Opera/8.70.(X11; Linux i686; hak-TW) Presto/2.9.185 Version/12.00
+2025-09-19 18:38:29,david.brown,175.150.195.152,Japan,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0)
+2025-09-19 18:38:30,alice.smith,132.238.165.41,Germany,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3405-10-27 22:12:07 Firefox/3.6.9
+2025-09-19 18:38:31,security_admin,131.36.162.249,UK,True,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/13.6s9329.0 Mobile/45T959 Safari/531.2"
+2025-09-19 18:38:33,eve.davis,131.119.147.232,Australia,True,Mozilla/5.0 (Android 2.3.6; Mobile; rv:63.0) Gecko/63.0 Firefox/63.0
+2025-09-19 18:38:36,root,218.139.159.74,Canada,True,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.881.0 Safari/535.2"
+2025-09-19 18:38:37,security_admin,218.12.102.84,Canada,True,Opera/8.85.(Windows CE; mai-IN) Presto/2.9.177 Version/11.00
+2025-09-19 18:38:40,david.brown,61.25.93.101,Iran,True,Mozilla/5.0 (Windows NT 5.1; bhb-IN; rv:1.9.0.20) Gecko/2827-12-24 15:04:27 Firefox/3.8
+2025-09-19 18:38:41,bob.jones,165.185.209.165,Australia,True,Mozilla/5.0 (Windows NT 10.0; or-IN; rv:1.9.2.20) Gecko/7837-05-22 20:18:18 Firefox/3.6.9
+2025-09-19 18:38:42,carol.white,89.146.148.199,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.26.5 (KHTML, like Gecko) Version/5.1 Safari/533.26.5"
+2025-09-19 18:38:44,david.brown,209.138.240.58,Brazil,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.0)
+2025-09-19 18:38:45,david.brown,110.103.251.128,Australia,True,Opera/9.66.(Windows NT 5.01; tcy-IN) Presto/2.9.166 Version/12.00
+2025-09-19 18:38:46,alice.smith,53.251.235.70,Japan,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.1)
+2025-09-19 18:38:47,alice.smith,86.202.206.1,Brazil,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6864-04-21 18:53:45 Firefox/3.6.20
+2025-09-19 18:38:48,security_admin,110.106.59.34,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/4.1)
+2025-09-19 18:38:50,bob.jones,121.208.31.124,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.12.7 (KHTML, like Gecko) Version/5.0.3 Safari/535.12.7"
+2025-09-19 18:38:51,security_admin,179.6.156.112,Japan,True,Opera/9.30.(X11; Linux x86_64; eu-ES) Presto/2.9.168 Version/12.00
+2025-09-19 18:38:52,alice.smith,105.214.58.44,Brazil,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8 rv:6.0; bg-BG) AppleWebKit/533.20.7 (KHTML, like Gecko) Version/4.0 Safari/533.20.7"
+2025-09-19 18:38:53,alice.smith,80.180.91.11,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.1)
+2025-09-19 18:38:54,bob.jones,64.84.11.96,Japan,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/5.1)
+2025-09-19 18:38:57,carol.white,32.15.65.222,USA,True,Opera/9.20.(Windows 98; Win 9x 4.90; am-ET) Presto/2.9.189 Version/10.00
+2025-09-19 18:38:58,bob.jones,114.70.79.212,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/14.0.859.0 Mobile/88H842 Safari/536.0"
+2025-09-19 18:38:59,sysadmin,62.108.49.122,Canada,True,"Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/31.0.829.0 Safari/532.0"
+2025-09-19 18:39:00,eve.davis,78.171.18.127,France,True,Opera/8.75.(X11; Linux x86_64; zh-CN) Presto/2.9.164 Version/10.00
+2025-09-19 18:39:01,bob.jones,217.122.92.101,UK,False,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_4) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/33.0.844.0 Safari/533.1"
+2025-09-19 18:39:02,carol.white,129.128.159.86,Brazil,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_8 rv:3.0; oc-FR) AppleWebKit/534.1.5 (KHTML, like Gecko) Version/4.0 Safari/534.1.5"
+2025-09-19 18:39:03,david.brown,89.141.217.115,UK,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/13.0.878.0 Mobile/75K398 Safari/535.1"
+2025-09-19 18:39:04,eve.davis,123.135.167.11,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; mag-IN) AppleWebKit/532.42.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6532.42.3"
+2025-09-19 18:39:05,alice.smith,96.146.171.222,Canada,True,"Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/14.0.830.0 Safari/532.1"
+2025-09-19 18:39:06,security_admin,14.228.114.43,Iran,True,Opera/9.10.(X11; Linux i686; kw-GB) Presto/2.9.171 Version/12.00
+2025-09-19 18:39:07,alice.smith,13.26.26.177,Iran,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_6; rv:1.9.4.20) Gecko/3423-12-24 09:58:19 Firefox/13.0
+2025-09-19 18:39:08,eve.davis,147.51.143.183,UK,True,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.46.3 (KHTML, like Gecko) Version/5.1 Safari/533.46.3"
+2025-09-19 18:39:09,alice.smith,76.210.79.207,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; xh-ZA) AppleWebKit/534.20.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.20.3"
+2025-09-19 18:39:10,carol.white,149.70.130.97,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; cy-GB) AppleWebKit/533.42.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6533.42.2"
+2025-09-19 18:39:11,david.brown,9.30.229.18,France,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8511-10-27 23:11:32 Firefox/6.0
+2025-09-19 18:39:12,carol.white,25.254.215.61,Germany,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+2025-09-19 18:39:15,bob.jones,74.26.37.67,France,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/18.8o0244.0 Mobile/49J974 Safari/536.1"
+2025-09-19 18:39:17,david.brown,205.21.44.69,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.0)
+2025-09-19 18:39:18,carol.white,196.97.20.114,Australia,True,Opera/9.51.(Windows 98; gl-ES) Presto/2.9.167 Version/12.00
+2025-09-19 18:39:19,bob.jones,148.10.46.79,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.10.6 (KHTML, like Gecko) Version/5.0.1 Safari/534.10.6"
+2025-09-19 18:39:20,bob.jones,181.48.74.245,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.0)
+2025-09-19 18:39:21,bob.jones,216.1.26.114,Japan,True,Opera/8.36.(X11; Linux i686; hy-AM) Presto/2.9.172 Version/10.00
+2025-09-19 18:39:22,admin,44.55.244.108,Australia,True,Mozilla/5.0 (Android 5.1.1; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0
+2025-09-19 18:39:23,bob.jones,123.196.82.36,Brazil,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1; rv:1.9.3.20) Gecko/3870-03-13 06:29:55 Firefox/9.0
+2025-09-19 18:39:24,bob.jones,219.211.116.188,Brazil,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.0)
+2025-09-19 18:39:25,bob.jones,96.219.48.32,UK,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/21.0.873.0 Mobile/65Y916 Safari/533.0"
+2025-09-19 18:39:27,carol.white,187.194.119.29,France,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4 rv:3.0; tcy-IN) AppleWebKit/533.2.6 (KHTML, like Gecko) Version/4.1 Safari/533.2.6"
+2025-09-19 18:39:28,bob.jones,23.118.174.169,UK,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.0)
+2025-09-19 18:39:29,carol.white,99.226.77.45,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/47.0.890.0 Mobile/91S339 Safari/532.2"
+2025-09-19 18:39:30,carol.white,48.92.40.107,USA,True,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/49.0.827.0 Safari/532.0"
+2025-09-19 18:39:33,alice.smith,173.94.233.102,UK,True,Mozilla/5.0 (Android 3.0; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
+2025-09-19 18:39:34,bob.jones,99.128.191.236,Germany,True,Mozilla/5.0 (Windows NT 6.0; my-MM; rv:1.9.0.20) Gecko/4167-10-02 07:32:43 Firefox/3.8
+2025-09-19 18:39:35,carol.white,4.220.31.213,USA,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; dv-MV) AppleWebKit/531.44.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6531.44.3"
+2025-09-19 18:39:39,eve.davis,30.103.198.146,North Korea,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 2_2_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/16.1a2561.0 Mobile/38G515 Safari/536.2"
+2025-09-19 18:39:40,alice.smith,119.198.238.105,France,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0; rv:1.9.6.20) Gecko/3402-01-18 03:15:13 Firefox/15.0
+2025-09-19 18:39:41,eve.davis,214.175.205.45,Germany,True,Opera/8.65.(Windows NT 6.2; dz-BT) Presto/2.9.163 Version/11.00
+2025-09-19 18:39:44,carol.white,98.57.78.107,Russia,True,Opera/8.50.(X11; Linux i686; mg-MG) Presto/2.9.172 Version/10.00
+2025-09-19 18:39:45,alice.smith,119.16.55.22,Canada,False,Opera/8.21.(X11; Linux x86_64; tcy-IN) Presto/2.9.165 Version/12.00
+2025-09-19 18:39:46,david.brown,94.13.168.15,Japan,True,Mozilla/5.0 (Windows NT 6.0; zu-ZA; rv:1.9.2.20) Gecko/6200-12-19 15:42:12 Firefox/3.8
+2025-09-19 18:39:47,david.brown,77.148.28.247,Germany,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4; rv:1.9.4.20) Gecko/4820-08-09 20:08:17 Firefox/3.6.6
+2025-09-19 18:39:48,carol.white,88.38.98.87,Brazil,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)
+2025-09-19 18:39:51,alice.smith,65.79.232.51,Australia,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/40.0.866.0 Safari/535.0"
+2025-09-19 18:39:52,alice.smith,178.156.74.230,UK,True,Opera/9.43.(Windows CE; he-IL) Presto/2.9.162 Version/10.00
+2025-09-19 18:39:53,alice.smith,37.53.111.29,Brazil,True,Opera/9.71.(X11; Linux x86_64; ru-RU) Presto/2.9.166 Version/10.00
+2025-09-19 18:39:54,eve.davis,124.165.83.156,Iran,True,Opera/8.56.(X11; Linux x86_64; ug-CN) Presto/2.9.185 Version/11.00
+2025-09-19 18:39:55,carol.white,82.168.8.216,Japan,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/16.6j2164.0 Mobile/82Y320 Safari/535.0"
+2025-09-19 18:39:56,david.brown,78.250.140.76,Canada,True,"Mozilla/5.0 (Linux; Android 4.2.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/49.0.877.0 Safari/531.2"
+2025-09-19 18:39:57,eve.davis,142.130.197.134,USA,True,Opera/8.79.(X11; Linux i686; oc-FR) Presto/2.9.182 Version/12.00
+2025-09-19 18:39:59,eve.davis,207.58.44.128,Australia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/28.0.873.0 Mobile/80S254 Safari/534.1"
+2025-09-19 18:40:01,security_admin,155.7.245.208,Germany,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; cy-GB) AppleWebKit/533.40.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.40.6"
+2025-09-19 18:40:03,bob.jones,113.202.8.235,Iran,True,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/14.0.833.0 Safari/536.0"
+2025-09-19 18:40:07,david.brown,1.76.75.250,Iran,True,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.28.3 (KHTML, like Gecko) Version/4.0.5 Safari/534.28.3"
+2025-09-19 18:40:09,eve.davis,31.49.164.2,France,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.1)
+2025-09-19 18:40:10,eve.davis,40.77.95.143,Japan,True,Opera/9.77.(X11; Linux x86_64; szl-PL) Presto/2.9.185 Version/12.00
+2025-09-19 18:40:11,bob.jones,206.171.179.132,Russia,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.1)
+2025-09-19 18:40:12,eve.davis,9.114.70.206,France,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.1)
+2025-09-19 18:40:13,david.brown,198.30.138.77,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/5.1)
+2025-09-19 18:40:14,bob.jones,83.149.53.22,Australia,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/61.0.839.0 Safari/533.0"
+2025-09-19 18:40:16,carol.white,204.72.26.92,UK,True,Opera/9.86.(Windows NT 11.0; sl-SI) Presto/2.9.177 Version/10.00
+2025-09-19 18:40:18,eve.davis,115.105.5.155,USA,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_2; rv:1.9.5.20) Gecko/2387-03-18 08:40:14 Firefox/3.8
+2025-09-19 18:40:20,david.brown,116.93.36.218,Australia,True,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.26.4 (KHTML, like Gecko) Version/5.1 Safari/532.26.4"
+2025-09-19 18:40:21,eve.davis,70.198.159.190,China,True,Opera/9.85.(X11; Linux x86_64; lzh-TW) Presto/2.9.176 Version/11.00
+2025-09-19 18:40:22,carol.white,206.166.85.14,UK,True,Opera/9.26.(Windows NT 11.0; lij-IT) Presto/2.9.179 Version/11.00
+2025-09-19 18:40:23,bob.jones,81.49.154.29,UK,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/61.0.830.0 Mobile/83C713 Safari/536.2"
+2025-09-19 18:40:24,eve.davis,108.79.66.184,Australia,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1)
+2025-09-19 18:40:25,bob.jones,118.127.214.122,Australia,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)
+2025-09-19 18:40:26,david.brown,130.4.176.203,Australia,True,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.46.6 (KHTML, like Gecko) Version/4.1 Safari/535.46.6"
+2025-09-19 18:40:28,david.brown,207.8.99.121,UK,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.1)
+2025-09-19 18:40:30,david.brown,92.37.234.38,France,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/31.0.821.0 Safari/532.0"
+2025-09-19 18:40:31,sysadmin,86.161.27.110,Brazil,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1 rv:3.0; id-ID) AppleWebKit/533.38.6 (KHTML, like Gecko) Version/4.0 Safari/533.38.6"
+2025-09-19 18:40:32,david.brown,147.15.46.42,UK,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; rv:1.9.6.20) Gecko/6231-09-05 14:24:35 Firefox/12.0
+2025-09-19 18:40:33,alice.smith,74.39.42.40,France,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/30.0.865.0 Safari/536.2"
+2025-09-19 18:40:34,admin,215.102.155.152,Canada,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/3.0)
+2025-09-19 18:40:35,eve.davis,72.248.144.90,Australia,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_0; rv:1.9.2.20) Gecko/2030-05-22 11:48:56 Firefox/8.0
+2025-09-19 18:40:38,alice.smith,184.10.57.153,France,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 rv:5.0; os-RU) AppleWebKit/535.13.3 (KHTML, like Gecko) Version/5.0 Safari/535.13.3"
+2025-09-19 18:40:40,bob.jones,132.121.61.176,USA,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/48.0.837.0 Safari/531.1"
+2025-09-19 18:40:41,carol.white,189.82.183.220,China,True,Opera/9.96.(X11; Linux i686; gez-ET) Presto/2.9.190 Version/12.00
+2025-09-19 18:40:42,bob.jones,213.208.231.87,UK,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.1)
+2025-09-19 18:40:43,carol.white,68.231.37.63,Germany,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0; rv:1.9.5.20) Gecko/2344-02-09 01:41:29 Firefox/3.6.14
+2025-09-19 18:40:44,eve.davis,71.32.122.161,France,True,"Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/32.0.864.0 Safari/532.0"
+2025-09-19 18:40:45,alice.smith,63.80.59.24,France,True,Mozilla/5.0 (Windows NT 6.2; csb-PL; rv:1.9.0.20) Gecko/6194-06-23 06:29:09 Firefox/3.8
+2025-09-19 18:40:47,eve.davis,145.204.245.15,UK,True,Opera/8.77.(Windows NT 5.2; rw-RW) Presto/2.9.171 Version/11.00
+2025-09-19 18:40:49,bob.jones,184.157.108.176,Australia,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8149-09-16 08:32:33 Firefox/3.8
+2025-09-19 18:40:50,carol.white,9.222.110.244,Russia,True,Mozilla/5.0 (Windows NT 6.0; uz-UZ; rv:1.9.0.20) Gecko/6505-02-08 11:05:26 Firefox/3.8
+2025-09-19 18:40:51,security_admin,71.79.117.160,Germany,True,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.24.5 (KHTML, like Gecko) Version/4.0.1 Safari/535.24.5"
+2025-09-19 18:40:52,eve.davis,31.100.213.192,France,True,Mozilla/5.0 (Android 14; Mobile; rv:57.0) Gecko/57.0 Firefox/57.0
+2025-09-19 18:40:54,david.brown,69.207.237.186,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/13.4l9956.0 Mobile/34V298 Safari/535.0"
+2025-09-19 18:40:55,alice.smith,110.238.225.73,UK,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1 rv:2.0; sr-RS) AppleWebKit/533.16.3 (KHTML, like Gecko) Version/4.1 Safari/533.16.3"
+2025-09-19 18:40:57,carol.white,185.13.248.49,Germany,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_0 rv:6.0; as-IN) AppleWebKit/532.19.7 (KHTML, like Gecko) Version/5.0 Safari/532.19.7"
+2025-09-19 18:40:58,alice.smith,219.92.244.45,Germany,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; bn-IN) AppleWebKit/535.46.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.46.2"
+2025-09-19 18:40:59,bob.jones,104.153.39.142,Russia,True,Opera/8.67.(Windows NT 6.2; gl-ES) Presto/2.9.165 Version/11.00
+2025-09-19 18:41:00,security_admin,49.162.166.133,Brazil,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/4.1)
+2025-09-19 18:41:01,bob.jones,18.200.215.28,Japan,True,Opera/8.16.(Windows NT 5.0; sv-SE) Presto/2.9.180 Version/12.00
+2025-09-19 18:41:02,david.brown,190.19.17.62,Canada,True,Opera/8.64.(X11; Linux i686; bo-CN) Presto/2.9.190 Version/10.00
+2025-09-19 18:41:03,alice.smith,66.98.121.238,Germany,True,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.9.5 (KHTML, like Gecko) Version/4.0 Safari/535.9.5"
+2025-09-19 18:41:04,alice.smith,132.232.1.207,Australia,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_6 rv:2.0; pa-IN) AppleWebKit/534.35.1 (KHTML, like Gecko) Version/5.0.1 Safari/534.35.1"
+2025-09-19 18:41:05,alice.smith,82.44.122.205,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.0)
+2025-09-19 18:41:06,david.brown,37.51.207.135,UK,False,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/4.0)
+2025-09-19 18:41:07,alice.smith,150.75.85.214,Brazil,True,"Mozilla/5.0 (Linux; Android 5.1.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/45.0.857.0 Safari/534.1"
+2025-09-19 18:41:09,carol.white,89.164.75.25,Australia,True,Mozilla/5.0 (Android 9; Mobile; rv:19.0) Gecko/19.0 Firefox/19.0
+2025-09-19 18:41:10,david.brown,124.104.175.127,Japan,False,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.0)
+2025-09-19 18:41:11,root,192.87.161.117,USA,True,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.8.2 (KHTML, like Gecko) Version/4.0 Safari/532.8.2"
+2025-09-19 18:41:13,david.brown,17.23.223.30,Iran,True,Opera/8.37.(X11; Linux x86_64; lg-UG) Presto/2.9.176 Version/11.00
+2025-09-19 18:41:14,bob.jones,207.141.59.60,Canada,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_8; rv:1.9.3.20) Gecko/7273-03-28 13:42:18 Firefox/3.6.6
+2025-09-19 18:41:15,sysadmin,161.248.194.54,North Korea,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_5) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/62.0.806.0 Safari/534.0"
+2025-09-19 18:41:16,eve.davis,50.153.187.209,China,True,Mozilla/5.0 (Android 3.2.6; Mobile; rv:8.0) Gecko/8.0 Firefox/8.0
+2025-09-19 18:41:17,bob.jones,95.148.162.253,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.7.5 (KHTML, like Gecko) Version/5.0 Safari/533.7.5"
+2025-09-19 18:41:18,carol.white,109.153.86.208,Brazil,True,"Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/62.0.888.0 Safari/536.1"
+2025-09-19 18:41:19,carol.white,124.92.16.189,Germany,True,Opera/8.25.(Windows NT 4.0; pl-PL) Presto/2.9.171 Version/10.00
+2025-09-19 18:41:23,carol.white,13.220.191.234,France,False,Opera/9.58.(X11; Linux x86_64; doi-IN) Presto/2.9.186 Version/11.00
+2025-09-19 18:41:25,bob.jones,1.201.144.11,Germany,True,Mozilla/5.0 (Android 4.3.1; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
+2025-09-19 18:41:27,carol.white,98.152.200.96,Russia,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3 rv:3.0; cs-CZ) AppleWebKit/532.47.5 (KHTML, like Gecko) Version/5.0 Safari/532.47.5"
+2025-09-19 18:41:29,david.brown,106.97.135.165,USA,False,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.1)
+2025-09-19 18:41:31,carol.white,91.101.241.178,Brazil,True,"Mozilla/5.0 (Linux; Android 7.1.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/25.0.822.0 Safari/533.2"
+2025-09-19 18:41:32,carol.white,184.64.172.155,France,True,Opera/9.24.(Windows 95; fur-IT) Presto/2.9.181 Version/11.00
+2025-09-19 18:41:33,bob.jones,199.123.147.160,North Korea,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3; rv:1.9.6.20) Gecko/2698-05-28 14:27:44 Firefox/3.6.18
+2025-09-19 18:41:34,eve.davis,215.143.186.21,Japan,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; en-AG) AppleWebKit/532.14.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.14.6"
+2025-09-19 18:41:38,bob.jones,57.132.107.37,Brazil,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/53.0.851.0 Safari/533.2"
+2025-09-19 18:41:39,alice.smith,44.138.143.229,Brazil,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5 rv:2.0; sd-PK) AppleWebKit/532.17.2 (KHTML, like Gecko) Version/5.0.4 Safari/532.17.2"
+2025-09-19 18:41:40,eve.davis,37.185.44.187,USA,True,Opera/9.38.(X11; Linux x86_64; cv-RU) Presto/2.9.179 Version/10.00
+2025-09-19 18:41:41,bob.jones,98.180.115.171,UK,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.1)
+2025-09-19 18:41:44,carol.white,6.212.209.14,UK,True,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/63.0.876.0 Safari/531.0"
+2025-09-19 18:41:45,bob.jones,69.29.106.120,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.1)
+2025-09-19 18:41:46,carol.white,154.66.87.100,North Korea,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/13.5n8583.0 Mobile/41D656 Safari/535.0"
+2025-09-19 18:41:47,david.brown,104.179.159.228,UK,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_6 rv:4.0; th-TH) AppleWebKit/532.32.6 (KHTML, like Gecko) Version/4.0.2 Safari/532.32.6"
+2025-09-19 18:41:48,alice.smith,23.41.122.223,Germany,True,Mozilla/5.0 (Windows NT 5.0; pt-BR; rv:1.9.2.20) Gecko/8534-08-13 16:57:34 Firefox/9.0
+2025-09-19 18:41:50,alice.smith,21.114.174.60,UK,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/20.0.810.0 Safari/536.0"
+2025-09-19 18:41:51,carol.white,130.103.15.194,Canada,True,Opera/9.72.(X11; Linux x86_64; ht-HT) Presto/2.9.165 Version/11.00
+2025-09-19 18:41:56,david.brown,168.246.55.147,France,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.1)
+2025-09-19 18:41:58,carol.white,163.56.150.58,UK,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.0)
+2025-09-19 18:42:00,david.brown,121.7.78.110,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)
+2025-09-19 18:42:01,alice.smith,75.25.189.35,Australia,True,Opera/8.11.(Windows NT 5.0; bho-IN) Presto/2.9.189 Version/11.00
+2025-09-19 18:42:02,alice.smith,174.45.141.61,Canada,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/6523-12-22 16:08:33 Firefox/3.8
+2025-09-19 18:42:03,eve.davis,9.247.208.2,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.33.5 (KHTML, like Gecko) Version/5.1 Safari/533.33.5"
+2025-09-19 18:42:04,admin,45.19.45.8,Japan,True,Opera/8.38.(Windows NT 4.0; sq-AL) Presto/2.9.173 Version/10.00
+2025-09-19 18:42:05,eve.davis,6.42.118.116,Russia,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2; rv:1.9.2.20) Gecko/7847-02-04 02:20:42 Firefox/3.8
+2025-09-19 18:42:06,bob.jones,204.214.201.140,Brazil,True,Mozilla/5.0 (Windows NT 6.1; crh-UA; rv:1.9.2.20) Gecko/5713-10-30 20:15:32 Firefox/3.6.18
+2025-09-19 18:42:09,bob.jones,126.35.126.24,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.0)
+2025-09-19 18:42:10,bob.jones,191.110.220.243,USA,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/60.0.843.0 Safari/535.2"
+2025-09-19 18:42:11,alice.smith,134.108.148.197,UK,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nds-DE) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.21.1"
+2025-09-19 18:42:12,bob.jones,170.24.202.192,Brazil,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2183-11-07 02:34:44 Firefox/3.8
+2025-09-19 18:42:14,david.brown,78.135.28.189,Canada,True,"Mozilla/5.0 (Linux; Android 8.0.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/61.0.825.0 Safari/531.2"
+2025-09-19 18:42:16,carol.white,112.253.128.40,USA,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; os-RU) AppleWebKit/535.28.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.28.5"
+2025-09-19 18:42:17,carol.white,30.161.140.175,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.0)
+2025-09-19 18:42:18,alice.smith,54.153.40.75,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/10.0b0643.0 Mobile/78T637 Safari/531.0"
+2025-09-19 18:42:19,root,12.16.140.3,Japan,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1; rv:1.9.3.20) Gecko/9806-06-04 16:48:34 Firefox/3.6.12
+2025-09-19 18:42:20,bob.jones,207.149.193.180,Australia,True,Opera/8.74.(X11; Linux i686; bho-IN) Presto/2.9.173 Version/10.00
+2025-09-19 18:42:24,bob.jones,164.55.217.146,Japan,True,Opera/8.13.(Windows NT 5.2; tr-TR) Presto/2.9.167 Version/10.00
+2025-09-19 18:42:25,eve.davis,161.93.183.83,Canada,True,Opera/8.50.(Windows NT 5.1; bo-CN) Presto/2.9.174 Version/10.00
+2025-09-19 18:42:28,carol.white,45.142.83.89,USA,True,Opera/8.48.(X11; Linux x86_64; tig-ER) Presto/2.9.163 Version/10.00
+2025-09-19 18:42:29,david.brown,94.151.29.57,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; dv-MV) AppleWebKit/532.35.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6532.35.3"
+2025-09-19 18:42:31,bob.jones,187.251.163.93,France,False,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/3.0)
+2025-09-19 18:42:32,eve.davis,47.123.1.213,Japan,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.0)
+2025-09-19 18:42:37,bob.jones,155.88.157.61,Germany,True,Opera/9.22.(X11; Linux x86_64; ne-NP) Presto/2.9.166 Version/11.00
+2025-09-19 18:42:39,eve.davis,106.52.41.105,USA,True,Mozilla/5.0 (Windows NT 4.0; iw-IL; rv:1.9.1.20) Gecko/4008-10-09 20:27:06 Firefox/3.6.16
+2025-09-19 18:42:40,carol.white,138.152.129.20,Australia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/17.3x5877.0 Mobile/48L327 Safari/533.1"
+2025-09-19 18:42:42,bob.jones,218.9.214.220,Australia,True,Opera/8.31.(Windows NT 5.0; el-GR) Presto/2.9.173 Version/11.00
+2025-09-19 18:42:43,eve.davis,69.136.177.126,Germany,True,Opera/8.35.(Windows CE; sa-IN) Presto/2.9.187 Version/12.00
+2025-09-19 18:42:44,alice.smith,124.82.172.136,USA,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.0)
+2025-09-19 18:42:45,root,182.155.5.51,USA,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.0)
+2025-09-19 18:42:46,eve.davis,137.103.143.169,Germany,True,Mozilla/5.0 (Windows NT 5.0; oc-FR; rv:1.9.0.20) Gecko/6054-02-14 22:44:37 Firefox/4.0
+2025-09-19 18:42:48,alice.smith,171.235.212.252,China,True,Opera/9.87.(X11; Linux x86_64; cs-CZ) Presto/2.9.167 Version/11.00
+2025-09-19 18:42:49,david.brown,14.106.212.213,USA,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_9) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/16.0.867.0 Safari/533.0"
+2025-09-19 18:42:50,carol.white,139.4.30.100,Australia,True,"Mozilla/5.0 (Linux; Android 2.3.5) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/26.0.853.0 Safari/534.1"
+2025-09-19 18:42:52,alice.smith,202.3.141.16,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)
+2025-09-19 18:42:53,carol.white,3.118.0.251,Australia,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/63.0.887.0 Safari/533.1"
+2025-09-19 18:42:54,admin,200.3.237.56,Germany,True,Opera/8.21.(Windows NT 4.0; kw-GB) Presto/2.9.160 Version/10.00
+2025-09-19 18:42:56,david.brown,120.73.239.6,Brazil,True,Mozilla/5.0 (Android 4.0.3; Mobile; rv:6.0) Gecko/6.0 Firefox/6.0
+2025-09-19 18:42:57,sysadmin,57.110.60.154,Canada,True,Opera/8.62.(X11; Linux i686; tk-TM) Presto/2.9.160 Version/12.00
+2025-09-19 18:42:58,bob.jones,175.237.86.239,Japan,True,Opera/8.34.(Windows 95; yi-US) Presto/2.9.172 Version/12.00
+2025-09-19 18:42:59,eve.davis,104.30.139.175,Brazil,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5 rv:5.0; ht-HT) AppleWebKit/531.8.6 (KHTML, like Gecko) Version/4.0.5 Safari/531.8.6"
+2025-09-19 18:43:01,bob.jones,94.56.96.37,Brazil,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.1)
+2025-09-19 18:43:02,david.brown,46.41.62.47,France,True,Opera/8.62.(Windows NT 11.0; ne-NP) Presto/2.9.167 Version/11.00
+2025-09-19 18:43:05,bob.jones,61.203.190.126,USA,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_0 rv:5.0; wo-SN) AppleWebKit/535.6.4 (KHTML, like Gecko) Version/4.1 Safari/535.6.4"
+2025-09-19 18:43:06,bob.jones,30.246.135.19,Canada,True,"Mozilla/5.0 (Linux; Android 7.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/35.0.822.0 Safari/531.2"
+2025-09-19 18:43:07,bob.jones,42.96.73.112,France,True,Mozilla/5.0 (Windows 95; mhr-RU; rv:1.9.2.20) Gecko/3400-04-30 08:02:14 Firefox/7.0
+2025-09-19 18:43:10,bob.jones,195.162.190.151,Brazil,True,Opera/9.52.(Windows NT 6.0; lo-LA) Presto/2.9.170 Version/11.00
+2025-09-19 18:43:11,bob.jones,113.160.226.33,Brazil,True,"Mozilla/5.0 (Linux; Android 4.4.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/49.0.821.0 Safari/532.2"
+2025-09-19 18:43:12,security_admin,87.143.62.9,Australia,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/39.0.852.0 Safari/532.1"
+2025-09-19 18:43:14,carol.white,10.163.211.18,Canada,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.34.3 (KHTML, like Gecko) Version/5.0 Safari/532.34.3"
+2025-09-19 18:43:15,eve.davis,89.68.211.149,UK,True,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/41.0.869.0 Safari/536.2"
+2025-09-19 18:43:16,david.brown,104.58.22.130,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.0)
+2025-09-19 18:43:17,root,99.210.189.156,Germany,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/9381-01-29 20:01:39 Firefox/7.0
+2025-09-19 18:43:18,alice.smith,39.174.209.152,UK,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)
+2025-09-19 18:43:19,bob.jones,20.0.233.201,Russia,True,Mozilla/5.0 (Android 10; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0
+2025-09-19 18:43:20,alice.smith,176.99.150.187,UK,True,"Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/28.0.895.0 Safari/532.2"
+2025-09-19 18:43:21,alice.smith,159.98.43.64,Brazil,True,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.12.4 (KHTML, like Gecko) Version/5.0.5 Safari/533.12.4"
+2025-09-19 18:43:22,alice.smith,104.164.39.92,Brazil,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_2; rv:1.9.4.20) Gecko/9971-12-24 18:58:19 Firefox/8.0
+2025-09-19 18:43:23,eve.davis,160.177.94.170,USA,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/3.0)
+2025-09-19 18:43:24,bob.jones,180.74.67.149,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; the-NP) AppleWebKit/534.44.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.44.3"
+2025-09-19 18:43:27,bob.jones,211.130.61.210,France,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.1)
+2025-09-19 18:43:29,bob.jones,179.152.68.199,USA,True,"Mozilla/5.0 (Windows 98) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/23.0.894.0 Safari/534.1"
+2025-09-19 18:43:30,bob.jones,38.238.252.63,Brazil,True,Mozilla/5.0 (Android 8.1.0; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0
+2025-09-19 18:43:31,david.brown,63.200.83.113,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/535.42.7 (KHTML, like Gecko) Version/4.1 Safari/535.42.7"
+2025-09-19 18:43:32,carol.white,150.31.82.206,Japan,True,Opera/8.31.(X11; Linux i686; nn-NO) Presto/2.9.177 Version/10.00
+2025-09-19 18:43:33,david.brown,132.160.237.87,Canada,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_1; rv:1.9.3.20) Gecko/8219-05-25 23:13:01 Firefox/3.6.7
+2025-09-19 18:43:34,alice.smith,1.16.111.241,Japan,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.1)
+2025-09-19 18:43:35,alice.smith,100.206.56.55,China,True,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/51.0.802.0 Mobile/65L687 Safari/534.2"
+2025-09-19 18:43:36,david.brown,180.21.40.183,USA,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2 rv:2.0; vi-VN) AppleWebKit/531.26.5 (KHTML, like Gecko) Version/4.0.1 Safari/531.26.5"
+2025-09-19 18:43:38,alice.smith,104.5.20.240,Brazil,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3; rv:1.9.5.20) Gecko/5019-02-10 09:35:54 Firefox/14.0
+2025-09-19 18:43:39,bob.jones,51.214.98.146,Japan,True,Mozilla/5.0 (Windows NT 6.1; the-NP; rv:1.9.0.20) Gecko/5984-12-01 02:46:35 Firefox/6.0
+2025-09-19 18:43:40,eve.davis,134.100.118.244,UK,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.1)
+2025-09-19 18:43:41,david.brown,88.169.72.228,Japan,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/34.0.820.0 Mobile/25H557 Safari/532.2"
+2025-09-19 18:43:42,bob.jones,65.115.153.77,UK,True,Opera/8.25.(Windows 98; ia-FR) Presto/2.9.175 Version/12.00
+2025-09-19 18:43:43,carol.white,132.70.130.147,Germany,True,Opera/8.47.(Windows NT 4.0; ks-IN) Presto/2.9.182 Version/12.00
+2025-09-19 18:43:44,carol.white,41.93.17.237,France,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.1)
+2025-09-19 18:43:47,bob.jones,171.226.49.167,Canada,True,Opera/8.89.(Windows NT 5.01; fur-IT) Presto/2.9.179 Version/12.00
+2025-09-19 18:43:48,david.brown,27.7.162.108,France,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.1)
+2025-09-19 18:43:49,david.brown,86.225.132.70,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; gv-GB) AppleWebKit/533.48.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6533.48.7"
+2025-09-19 18:43:50,sysadmin,138.67.33.41,France,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_0; rv:1.9.5.20) Gecko/3055-11-30 08:01:47 Firefox/3.6.10
+2025-09-19 18:43:52,eve.davis,95.128.171.147,North Korea,True,Mozilla/5.0 (Windows 95; doi-IN; rv:1.9.1.20) Gecko/4471-05-03 20:54:12 Firefox/3.6.17
+2025-09-19 18:43:53,root,220.160.202.189,China,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/62.0.814.0 Safari/531.1"
+2025-09-19 18:43:54,eve.davis,49.61.209.78,Iran,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/56.0.862.0 Safari/532.0"
+2025-09-19 18:43:57,david.brown,93.208.147.123,Russia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/4.0)
+2025-09-19 18:43:58,bob.jones,39.113.225.131,Canada,True,Mozilla/5.0 (Windows NT 5.0; tcy-IN; rv:1.9.2.20) Gecko/9131-09-04 07:04:22 Firefox/3.6.9
+2025-09-19 18:43:59,carol.white,85.78.211.145,USA,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.1)
+2025-09-19 18:44:01,bob.jones,5.53.48.92,Brazil,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:44:02,bob.jones,196.132.137.39,Brazil,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_2; rv:1.9.5.20) Gecko/4086-12-06 13:23:40 Firefox/13.0
+2025-09-19 18:44:03,david.brown,20.82.162.37,Iran,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/60.0.861.0 Mobile/16C712 Safari/534.1"
+2025-09-19 18:44:04,david.brown,149.189.46.199,USA,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0)
+2025-09-19 18:44:05,bob.jones,157.48.249.250,North Korea,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:44:06,david.brown,49.49.224.46,USA,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; rv:1.9.2.20) Gecko/5895-03-14 18:13:20 Firefox/3.8
+2025-09-19 18:44:07,david.brown,101.190.138.53,UK,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_8 rv:2.0; as-IN) AppleWebKit/533.10.2 (KHTML, like Gecko) Version/5.0.3 Safari/533.10.2"
+2025-09-19 18:44:08,david.brown,159.224.110.192,USA,True,Opera/9.83.(X11; Linux x86_64; pl-PL) Presto/2.9.169 Version/11.00
+2025-09-19 18:44:11,bob.jones,158.142.56.216,Brazil,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_5) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/15.0.828.0 Safari/531.2"
+2025-09-19 18:44:12,carol.white,164.78.75.198,UK,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_8) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/50.0.884.0 Safari/536.1"
+2025-09-19 18:44:13,david.brown,150.110.250.186,Brazil,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9068-04-28 12:25:31 Firefox/5.0
+2025-09-19 18:44:14,david.brown,136.196.247.242,Japan,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0)
+2025-09-19 18:44:15,eve.davis,78.20.9.190,China,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2 rv:2.0; ms-MY) AppleWebKit/531.18.1 (KHTML, like Gecko) Version/4.0 Safari/531.18.1"
+2025-09-19 18:44:17,bob.jones,189.63.142.58,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.34.6 (KHTML, like Gecko) Version/5.0.4 Safari/535.34.6"
+2025-09-19 18:44:18,bob.jones,216.210.25.4,Brazil,True,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/27.0.817.0 Safari/534.2"
+2025-09-19 18:44:19,carol.white,87.136.245.141,Canada,True,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.19.5 (KHTML, like Gecko) Version/4.1 Safari/535.19.5"
+2025-09-19 18:44:20,carol.white,141.101.38.62,USA,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_3; rv:1.9.2.20) Gecko/2244-11-18 22:04:56 Firefox/14.0
+2025-09-19 18:44:23,eve.davis,114.67.207.130,Canada,True,Mozilla/5.0 (Windows 95; unm-US; rv:1.9.0.20) Gecko/3814-08-06 19:07:53 Firefox/4.0
+2025-09-19 18:44:24,sysadmin,148.131.174.13,France,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.1)
+2025-09-19 18:44:25,alice.smith,52.190.220.31,Brazil,True,Mozilla/5.0 (Windows NT 6.1; fa-IR; rv:1.9.0.20) Gecko/2582-03-20 07:33:01 Firefox/3.8
+2025-09-19 18:44:26,david.brown,35.223.235.240,Japan,False,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0)
+2025-09-19 18:44:28,alice.smith,23.184.209.142,USA,True,Opera/8.35.(X11; Linux x86_64; cmn-TW) Presto/2.9.169 Version/10.00
+2025-09-19 18:44:32,bob.jones,106.94.70.35,France,True,Opera/9.14.(X11; Linux x86_64; ckb-IQ) Presto/2.9.174 Version/12.00
+2025-09-19 18:44:33,security_admin,16.16.236.195,China,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.30.5 (KHTML, like Gecko) Version/4.1 Safari/535.30.5"
+2025-09-19 18:44:35,alice.smith,142.116.48.179,Russia,True,Mozilla/5.0 (Windows CE; fil-PH; rv:1.9.0.20) Gecko/7297-06-18 22:41:51 Firefox/3.6.16
+2025-09-19 18:44:37,david.brown,46.118.204.70,Russia,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.1)
+2025-09-19 18:44:39,admin,13.189.226.50,Australia,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.0)
+2025-09-19 18:44:40,alice.smith,150.117.46.162,Japan,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2998-06-03 03:23:55 Firefox/3.8
+2025-09-19 18:44:41,carol.white,126.0.66.127,UK,False,"Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/9.4q3127.0 Mobile/53V408 Safari/532.2"
+2025-09-19 18:44:42,bob.jones,158.85.154.37,France,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/22.0.845.0 Mobile/02Q577 Safari/532.1"
+2025-09-19 18:44:45,david.brown,41.186.89.103,Germany,True,"Mozilla/5.0 (Windows 98) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/39.0.805.0 Safari/535.0"
+2025-09-19 18:44:48,eve.davis,93.41.235.166,Brazil,True,"Mozilla/5.0 (Linux; Android 13) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/41.0.811.0 Safari/535.2"
+2025-09-19 18:44:49,sysadmin,49.194.44.164,Japan,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/11.2a4427.0 Mobile/72H304 Safari/532.0"
+2025-09-19 18:44:50,david.brown,34.93.225.28,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.0)
+2025-09-19 18:44:51,sysadmin,36.171.10.26,UK,True,Opera/8.82.(X11; Linux i686; gd-GB) Presto/2.9.185 Version/10.00
+2025-09-19 18:44:52,alice.smith,24.101.79.77,Canada,True,Opera/8.81.(X11; Linux i686; gez-ET) Presto/2.9.186 Version/11.00
+2025-09-19 18:44:54,root,54.216.70.8,Brazil,True,Opera/8.83.(Windows NT 6.1; tig-ER) Presto/2.9.177 Version/12.00
+2025-09-19 18:44:56,bob.jones,83.214.115.157,China,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/5652-02-20 09:43:38 Firefox/3.6.3
+2025-09-19 18:44:57,carol.white,212.190.66.149,North Korea,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_2; rv:1.9.4.20) Gecko/6046-09-12 16:47:26 Firefox/8.0
+2025-09-19 18:44:58,bob.jones,212.145.107.198,Russia,True,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/9.7d7564.0 Mobile/66M999 Safari/535.2"
+2025-09-19 18:44:59,carol.white,162.120.85.45,Australia,True,Opera/9.22.(X11; Linux i686; zh-CN) Presto/2.9.172 Version/10.00
+2025-09-19 18:45:00,alice.smith,217.134.124.104,North Korea,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/15.0.850.0 Safari/534.2"
+2025-09-19 18:45:02,alice.smith,155.18.96.120,North Korea,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:45:03,carol.white,186.82.105.83,Japan,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/3.1)
+2025-09-19 18:45:04,alice.smith,172.230.141.239,UK,True,Opera/8.43.(Windows NT 4.0; sl-SI) Presto/2.9.169 Version/10.00
+2025-09-19 18:45:07,alice.smith,12.60.131.46,Japan,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.1)
+2025-09-19 18:45:09,carol.white,190.16.163.121,France,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/58.0.833.0 Safari/533.2"
+2025-09-19 18:45:10,bob.jones,13.23.30.235,Canada,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.0)
+2025-09-19 18:45:11,alice.smith,78.184.44.139,Australia,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_9 rv:5.0; wal-ET) AppleWebKit/533.2.7 (KHTML, like Gecko) Version/5.1 Safari/533.2.7"
+2025-09-19 18:45:12,bob.jones,106.182.229.91,China,True,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/533.50.6 (KHTML, like Gecko) Version/4.0.2 Safari/533.50.6"
+2025-09-19 18:45:13,carol.white,124.140.23.144,Brazil,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/63.0.820.0 Mobile/03G831 Safari/536.2"
+2025-09-19 18:45:14,eve.davis,85.11.108.148,Germany,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.0)
+2025-09-19 18:45:15,security_admin,174.166.128.64,USA,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_2; rv:1.9.5.20) Gecko/2886-03-31 01:59:40 Firefox/3.8
+2025-09-19 18:45:16,eve.davis,57.149.67.146,Germany,True,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/17.6n4880.0 Mobile/55M069 Safari/533.1"
+2025-09-19 18:45:17,eve.davis,58.106.118.7,USA,True,"Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/38.0.885.0 Safari/531.1"
+2025-09-19 18:45:18,bob.jones,119.136.240.136,Australia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/36.0.821.0 Mobile/02F893 Safari/533.1"
+2025-09-19 18:45:19,eve.davis,36.52.104.132,UK,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_6; rv:1.9.4.20) Gecko/3245-02-19 15:10:01 Firefox/3.6.10
+2025-09-19 18:45:21,security_admin,177.184.13.71,Brazil,True,Opera/8.41.(X11; Linux i686; mai-IN) Presto/2.9.184 Version/12.00
+2025-09-19 18:45:22,bob.jones,205.94.4.119,UK,True,"Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/21.0.807.0 Mobile/15R346 Safari/531.0"
+2025-09-19 18:45:23,david.brown,4.107.131.54,France,True,Opera/8.51.(Windows NT 5.01; es-MX) Presto/2.9.167 Version/12.00
+2025-09-19 18:45:24,carol.white,90.66.253.51,Brazil,True,Opera/8.55.(X11; Linux i686; he-IL) Presto/2.9.169 Version/12.00
+2025-09-19 18:45:28,security_admin,41.61.75.238,Brazil,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_9; rv:1.9.6.20) Gecko/3541-05-30 19:08:18 Firefox/3.6.9
+2025-09-19 18:45:30,eve.davis,145.6.211.113,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.0)
+2025-09-19 18:45:32,alice.smith,14.110.236.248,UK,True,Opera/8.27.(Windows NT 5.2; ka-GE) Presto/2.9.174 Version/10.00
+2025-09-19 18:45:33,alice.smith,136.170.73.52,Japan,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1)
+2025-09-19 18:45:37,alice.smith,111.110.33.229,UK,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; cy-GB) AppleWebKit/532.10.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6532.10.6"
+2025-09-19 18:45:38,carol.white,116.78.137.7,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/4.1)
+2025-09-19 18:45:40,eve.davis,115.177.214.183,USA,True,Opera/8.25.(Windows NT 4.0; li-BE) Presto/2.9.161 Version/10.00
+2025-09-19 18:45:41,alice.smith,39.189.174.183,France,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_3; rv:1.9.6.20) Gecko/9074-10-23 07:47:35 Firefox/3.8
+2025-09-19 18:45:42,eve.davis,116.93.120.118,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/23.0.886.0 Mobile/22V136 Safari/533.1"
+2025-09-19 18:45:43,eve.davis,129.196.200.118,Australia,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/25.0.833.0 Safari/531.2"
+2025-09-19 18:45:44,eve.davis,63.0.173.4,UK,True,Opera/9.96.(Windows NT 4.0; om-KE) Presto/2.9.180 Version/10.00
+2025-09-19 18:45:45,root,14.133.164.193,USA,True,Opera/9.44.(X11; Linux x86_64; kl-GL) Presto/2.9.165 Version/12.00
+2025-09-19 18:45:47,eve.davis,32.248.216.220,Brazil,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.1)
+2025-09-19 18:45:48,alice.smith,189.23.192.146,Japan,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9252-01-19 20:27:44 Firefox/11.0
+2025-09-19 18:45:49,carol.white,43.231.189.130,Australia,True,Mozilla/5.0 (Android 2.0.1; Mobile; rv:23.0) Gecko/23.0 Firefox/23.0
+2025-09-19 18:45:50,bob.jones,10.138.54.1,Japan,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/4.1)
+2025-09-19 18:45:51,carol.white,192.65.157.119,USA,True,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.25.7 (KHTML, like Gecko) Version/4.0.1 Safari/531.25.7"
+2025-09-19 18:45:52,eve.davis,52.54.213.84,North Korea,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/32.0.817.0 Safari/533.1"
+2025-09-19 18:45:53,eve.davis,179.238.207.44,Germany,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.1)
+2025-09-19 18:45:54,carol.white,198.201.178.193,UK,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_5) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/19.0.888.0 Safari/531.2"
+2025-09-19 18:45:55,eve.davis,170.141.199.142,Brazil,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.0)
+2025-09-19 18:45:57,security_admin,162.16.219.27,UK,False,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/4.1)
+2025-09-19 18:45:59,alice.smith,59.81.112.84,Germany,False,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/50.0.851.0 Safari/535.1"
+2025-09-19 18:46:00,bob.jones,114.228.69.167,Japan,True,Opera/9.62.(Windows NT 4.0; wo-SN) Presto/2.9.162 Version/11.00
+2025-09-19 18:46:02,alice.smith,219.218.194.132,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/10.2j8733.0 Mobile/39V126 Safari/535.0"
+2025-09-19 18:46:03,root,94.13.22.45,Russia,True,Opera/9.98.(X11; Linux i686; mr-IN) Presto/2.9.176 Version/11.00
+2025-09-19 18:46:04,alice.smith,30.186.254.130,UK,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.0)
+2025-09-19 18:46:06,root,220.225.227.233,Russia,True,Opera/9.56.(Windows NT 6.2; sa-IN) Presto/2.9.186 Version/10.00
+2025-09-19 18:46:07,carol.white,4.30.167.5,North Korea,True,"Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/10.2i0110.0 Mobile/61O489 Safari/534.0"
+2025-09-19 18:46:10,alice.smith,169.112.200.216,China,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/52.0.864.0 Safari/533.1"
+2025-09-19 18:46:12,david.brown,16.47.134.61,Canada,True,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.11.5 (KHTML, like Gecko) Version/4.0.3 Safari/535.11.5"
+2025-09-19 18:46:13,alice.smith,131.215.103.36,Australia,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.1)
+2025-09-19 18:46:14,alice.smith,203.234.87.31,Germany,False,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/16.1x5905.0 Mobile/58P553 Safari/535.2"
+2025-09-19 18:46:15,david.brown,139.10.104.166,North Korea,True,"Mozilla/5.0 (iPad; CPU iPad OS 16_7_7 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/54.0.846.0 Mobile/31G185 Safari/535.0"
+2025-09-19 18:46:17,david.brown,139.89.193.90,Germany,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_3 rv:5.0; ar-KM) AppleWebKit/534.12.3 (KHTML, like Gecko) Version/4.0.4 Safari/534.12.3"
+2025-09-19 18:46:23,root,114.178.170.169,Brazil,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/11.2z1224.0 Mobile/89Y859 Safari/531.1"
+2025-09-19 18:46:26,carol.white,162.224.47.27,USA,True,Opera/9.82.(Windows NT 6.0; ps-AF) Presto/2.9.172 Version/12.00
+2025-09-19 18:46:28,carol.white,3.45.137.1,France,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+2025-09-19 18:46:29,sysadmin,195.67.83.91,Germany,True,Opera/9.71.(Windows NT 6.1; yi-US) Presto/2.9.174 Version/12.00
+2025-09-19 18:46:31,david.brown,103.1.46.15,Japan,False,Mozilla/5.0 (Windows 98; nr-ZA; rv:1.9.1.20) Gecko/9412-12-16 07:46:31 Firefox/3.8
+2025-09-19 18:46:32,bob.jones,40.245.66.184,Canada,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0)
+2025-09-19 18:46:35,alice.smith,223.147.19.156,USA,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2382-02-17 21:35:27 Firefox/6.0
+2025-09-19 18:46:37,alice.smith,7.91.223.32,Australia,True,Opera/9.58.(X11; Linux i686; tg-TJ) Presto/2.9.179 Version/10.00
+2025-09-19 18:46:40,david.brown,98.249.50.31,Germany,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9 rv:5.0; az-IN) AppleWebKit/535.11.6 (KHTML, like Gecko) Version/5.1 Safari/535.11.6"
+2025-09-19 18:46:41,alice.smith,50.12.117.245,France,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/18.1p4455.0 Mobile/11I338 Safari/531.0"
+2025-09-19 18:46:43,eve.davis,143.182.91.79,UK,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.0)
+2025-09-19 18:46:44,eve.davis,68.26.255.176,Russia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.0)
+2025-09-19 18:46:45,eve.davis,129.229.199.132,USA,True,Mozilla/5.0 (Android 7.1.2; Mobile; rv:12.0) Gecko/12.0 Firefox/12.0
+2025-09-19 18:46:46,bob.jones,193.72.158.199,Canada,False,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/3.1)
+2025-09-19 18:46:47,david.brown,80.220.132.86,Brazil,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_8) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/58.0.843.0 Safari/534.0"
+2025-09-19 18:46:49,alice.smith,8.14.171.160,Japan,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.0)
+2025-09-19 18:46:50,eve.davis,119.78.105.244,UK,True,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/31.0.815.0 Safari/535.2"
+2025-09-19 18:46:51,carol.white,199.57.53.247,Japan,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/4.1)
+2025-09-19 18:46:52,bob.jones,105.192.187.244,France,True,Mozilla/5.0 (Android 3.2.5; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0
+2025-09-19 18:46:53,alice.smith,138.107.188.176,China,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.0)
+2025-09-19 18:46:54,carol.white,17.179.127.45,Australia,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_3; rv:1.9.6.20) Gecko/9531-07-15 09:12:07 Firefox/3.6.12
+2025-09-19 18:46:59,bob.jones,3.219.133.248,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.17.7 (KHTML, like Gecko) Version/5.1 Safari/532.17.7"
+2025-09-19 18:47:01,root,26.123.102.102,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; nr-ZA) AppleWebKit/533.19.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.19.7"
+2025-09-19 18:47:02,eve.davis,176.41.159.79,UK,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:4.0; cy-GB) AppleWebKit/534.18.1 (KHTML, like Gecko) Version/5.0 Safari/534.18.1"
+2025-09-19 18:47:03,eve.davis,31.100.148.101,France,True,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/534.8.4 (KHTML, like Gecko) Version/5.0.1 Safari/534.8.4"
+2025-09-19 18:47:04,eve.davis,24.78.149.209,USA,True,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.23.5 (KHTML, like Gecko) Version/5.1 Safari/532.23.5"
+2025-09-19 18:47:06,carol.white,85.21.39.44,Australia,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/17.0.852.0 Safari/531.0"
+2025-09-19 18:47:07,david.brown,222.121.75.220,USA,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/16.0.826.0 Safari/535.2"
+2025-09-19 18:47:08,admin,170.199.65.241,Iran,True,"Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/44.0.892.0 Safari/536.2"
+2025-09-19 18:47:10,carol.white,69.23.4.173,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/52.0.854.0 Mobile/21J758 Safari/531.1"
+2025-09-19 18:47:12,carol.white,141.195.99.62,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; sid-ET) AppleWebKit/533.18.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6533.18.7"
+2025-09-19 18:47:13,david.brown,114.251.127.176,USA,True,Opera/9.31.(Windows NT 5.01; sc-IT) Presto/2.9.160 Version/10.00
+2025-09-19 18:47:15,carol.white,76.13.69.202,USA,True,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.26.5 (KHTML, like Gecko) Version/5.0.4 Safari/534.26.5"
+2025-09-19 18:47:16,alice.smith,79.4.79.233,China,True,Mozilla/5.0 (Android 2.3.3; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+2025-09-19 18:47:18,carol.white,25.104.199.41,Germany,True,"Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/30.0.896.0 Safari/535.2"
+2025-09-19 18:47:19,alice.smith,215.149.54.230,France,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9 rv:6.0; ht-HT) AppleWebKit/531.27.7 (KHTML, like Gecko) Version/5.0 Safari/531.27.7"
+2025-09-19 18:47:20,eve.davis,119.222.236.94,Iran,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/25.0.823.0 Safari/535.0"
+2025-09-19 18:47:21,david.brown,181.254.183.152,France,True,Opera/8.14.(X11; Linux x86_64; sk-SK) Presto/2.9.175 Version/12.00
+2025-09-19 18:47:23,carol.white,38.18.157.101,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:47:25,security_admin,47.65.188.251,Russia,True,"Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/59.0.849.0 Safari/536.0"
+2025-09-19 18:47:27,david.brown,202.168.98.252,Australia,True,Opera/8.22.(Windows CE; bem-ZM) Presto/2.9.179 Version/12.00
+2025-09-19 18:47:28,eve.davis,131.234.194.240,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; sr-ME) AppleWebKit/533.23.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6533.23.1"
+2025-09-19 18:47:32,alice.smith,185.151.87.234,Canada,True,Opera/8.66.(Windows 95; szl-PL) Presto/2.9.173 Version/10.00
+2025-09-19 18:47:33,alice.smith,2.5.40.48,Brazil,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4; rv:1.9.3.20) Gecko/6809-10-07 04:24:40 Firefox/3.6.2
+2025-09-19 18:47:34,eve.davis,39.190.149.137,Japan,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/13.8d9791.0 Mobile/41F215 Safari/532.0"
+2025-09-19 18:47:35,david.brown,133.91.83.46,Germany,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/51.0.890.0 Safari/533.0"
+2025-09-19 18:47:36,eve.davis,139.108.176.182,Iran,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2 rv:2.0; so-DJ) AppleWebKit/532.47.2 (KHTML, like Gecko) Version/4.0.4 Safari/532.47.2"
+2025-09-19 18:47:38,eve.davis,16.209.130.105,Australia,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6; rv:1.9.4.20) Gecko/7912-11-26 13:55:53 Firefox/3.8
+2025-09-19 18:47:39,eve.davis,189.248.176.134,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/534.17.5 (KHTML, like Gecko) Version/5.0.5 Safari/534.17.5"
+2025-09-19 18:47:40,alice.smith,158.208.250.128,Brazil,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.1)
+2025-09-19 18:47:42,alice.smith,216.142.15.75,China,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+2025-09-19 18:47:43,bob.jones,194.235.102.20,France,True,Opera/8.51.(Windows NT 5.1; th-TH) Presto/2.9.171 Version/11.00
+2025-09-19 18:47:44,alice.smith,162.204.64.70,Canada,True,Opera/9.16.(Windows NT 6.0; apn-IN) Presto/2.9.163 Version/11.00
+2025-09-19 18:47:45,carol.white,34.37.126.85,Japan,True,Mozilla/5.0 (Android 2.3.7; Mobile; rv:24.0) Gecko/24.0 Firefox/24.0
+2025-09-19 18:47:46,david.brown,118.122.164.202,France,True,"Mozilla/5.0 (Linux; Android 7.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/37.0.842.0 Safari/531.2"
+2025-09-19 18:47:47,carol.white,55.65.48.149,UK,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.0)
+2025-09-19 18:47:48,carol.white,68.132.2.224,UK,True,Mozilla/5.0 (Windows 98; ms-MY; rv:1.9.2.20) Gecko/8583-04-22 15:59:13 Firefox/3.6.15
+2025-09-19 18:47:51,eve.davis,182.127.255.36,UK,True,"Mozilla/5.0 (Windows CE) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/52.0.815.0 Safari/531.1"
+2025-09-19 18:47:52,eve.davis,143.32.228.221,Canada,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0)
+2025-09-19 18:47:55,carol.white,212.85.44.247,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ne-NP) AppleWebKit/535.18.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.18.4"
+2025-09-19 18:47:56,eve.davis,120.12.252.49,China,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_7 rv:2.0; en-HK) AppleWebKit/533.11.5 (KHTML, like Gecko) Version/5.1 Safari/533.11.5"
+2025-09-19 18:47:57,bob.jones,40.77.223.72,Germany,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_2 rv:3.0; lt-LT) AppleWebKit/531.6.4 (KHTML, like Gecko) Version/4.0.3 Safari/531.6.4"
+2025-09-19 18:47:58,admin,80.138.125.160,Germany,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7 rv:4.0; br-FR) AppleWebKit/533.44.7 (KHTML, like Gecko) Version/5.0 Safari/533.44.7"
+2025-09-19 18:48:01,bob.jones,105.30.161.113,China,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; cs-CZ) AppleWebKit/531.35.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6531.35.7"
+2025-09-19 18:48:03,carol.white,103.167.29.68,Brazil,False,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.0)
+2025-09-19 18:48:06,bob.jones,92.189.131.23,Iran,False,Opera/8.16.(X11; Linux i686; hne-IN) Presto/2.9.189 Version/12.00
+2025-09-19 18:48:07,alice.smith,129.249.63.228,France,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.0)
+2025-09-19 18:48:08,bob.jones,105.82.70.214,Canada,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9; rv:1.9.4.20) Gecko/2645-04-18 06:50:03 Firefox/8.0
+2025-09-19 18:48:10,david.brown,10.66.32.44,USA,True,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.17.7 (KHTML, like Gecko) Version/4.0 Safari/533.17.7"
+2025-09-19 18:48:13,bob.jones,117.125.42.169,Germany,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_3 rv:6.0; os-RU) AppleWebKit/534.15.2 (KHTML, like Gecko) Version/5.0.3 Safari/534.15.2"
+2025-09-19 18:48:14,alice.smith,206.186.133.51,Australia,True,Opera/8.12.(Windows NT 5.2; li-BE) Presto/2.9.160 Version/11.00
+2025-09-19 18:48:16,admin,79.122.190.212,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/533.41.3 (KHTML, like Gecko) Version/5.0.5 Safari/533.41.3"
+2025-09-19 18:48:17,carol.white,90.230.54.143,Brazil,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.0)
+2025-09-19 18:48:18,carol.white,134.104.66.88,France,True,Mozilla/5.0 (Windows NT 6.2; it-CH; rv:1.9.2.20) Gecko/3646-01-29 15:41:39 Firefox/3.6.9
+2025-09-19 18:48:19,bob.jones,114.162.215.25,USA,True,Mozilla/5.0 (Windows NT 6.2; lb-LU; rv:1.9.1.20) Gecko/8369-07-30 00:00:50 Firefox/8.0
+2025-09-19 18:48:20,bob.jones,65.151.234.177,China,True,Opera/9.88.(X11; Linux i686; ko-KR) Presto/2.9.188 Version/10.00
+2025-09-19 18:48:22,bob.jones,183.14.29.160,USA,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/33.0.800.0 Safari/534.1"
+2025-09-19 18:48:23,eve.davis,36.96.234.99,Japan,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0)
+2025-09-19 18:48:24,bob.jones,92.25.205.216,USA,True,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.34.4 (KHTML, like Gecko) Version/4.0.3 Safari/533.34.4"
+2025-09-19 18:48:25,eve.davis,222.69.62.230,Russia,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5; rv:1.9.3.20) Gecko/4160-11-12 18:15:06 Firefox/3.8
+2025-09-19 18:48:27,alice.smith,23.56.241.170,USA,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/13.6r3135.0 Mobile/37Z233 Safari/534.0"
+2025-09-19 18:48:28,security_admin,222.228.90.184,France,False,Opera/8.42.(Windows NT 5.0; mai-IN) Presto/2.9.164 Version/12.00
+2025-09-19 18:48:29,david.brown,222.185.119.124,France,True,Opera/8.60.(Windows NT 11.0; raj-IN) Presto/2.9.170 Version/12.00
+2025-09-19 18:48:31,carol.white,28.102.187.62,Germany,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/62.0.856.0 Mobile/71X501 Safari/535.2"
+2025-09-19 18:48:32,david.brown,46.57.231.10,UK,True,Opera/9.96.(Windows NT 10.0; ts-ZA) Presto/2.9.180 Version/12.00
+2025-09-19 18:48:34,carol.white,41.58.103.162,Brazil,True,Mozilla/5.0 (Android 4.2; Mobile; rv:10.0) Gecko/10.0 Firefox/10.0
+2025-09-19 18:48:35,eve.davis,35.218.18.80,USA,True,Mozilla/5.0 (Android 1.6; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0
+2025-09-19 18:48:37,eve.davis,97.125.159.114,Australia,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6; rv:1.9.5.20) Gecko/9368-09-15 01:57:49 Firefox/3.8
+2025-09-19 18:48:38,admin,23.123.98.87,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/4.1)
+2025-09-19 18:48:39,david.brown,85.185.169.42,UK,False,"Mozilla/5.0 (Linux; Android 14) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/35.0.896.0 Safari/536.1"
+2025-09-19 18:48:40,security_admin,72.75.73.168,France,True,"Mozilla/5.0 (Linux; Android 4.1.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/42.0.895.0 Safari/535.1"
+2025-09-19 18:48:41,eve.davis,44.31.184.255,China,True,Opera/8.60.(Windows CE; kw-GB) Presto/2.9.172 Version/10.00
+2025-09-19 18:48:43,eve.davis,171.193.159.189,Iran,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/3.1)
+2025-09-19 18:48:44,david.brown,26.190.113.175,UK,True,Opera/9.43.(X11; Linux x86_64; sv-FI) Presto/2.9.178 Version/12.00
+2025-09-19 18:48:45,david.brown,157.134.88.33,Australia,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4 rv:2.0; sa-IN) AppleWebKit/535.23.4 (KHTML, like Gecko) Version/4.0 Safari/535.23.4"
+2025-09-19 18:48:46,bob.jones,99.247.210.110,USA,True,Opera/9.34.(Windows NT 5.2; pl-PL) Presto/2.9.177 Version/12.00
+2025-09-19 18:48:47,admin,83.40.69.30,Canada,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/45.0.856.0 Safari/533.2"
+2025-09-19 18:48:48,bob.jones,49.161.245.11,North Korea,True,"Mozilla/5.0 (Windows 95) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/50.0.873.0 Safari/536.2"
+2025-09-19 18:48:50,eve.davis,187.224.115.73,USA,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/45.0.897.0 Safari/535.0"
+2025-09-19 18:48:51,david.brown,211.46.25.221,UK,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0; rv:1.9.6.20) Gecko/6849-02-03 08:25:04 Firefox/3.6.5
+2025-09-19 18:48:54,eve.davis,44.2.131.17,USA,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.1)
+2025-09-19 18:48:55,eve.davis,97.77.199.47,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.1)
+2025-09-19 18:48:57,bob.jones,142.124.72.235,USA,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; lt-LT) AppleWebKit/534.31.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.31.6"
+2025-09-19 18:49:00,alice.smith,7.196.32.235,Australia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/15.1q1104.0 Mobile/13U611 Safari/532.2"
+2025-09-19 18:49:01,carol.white,88.136.106.195,Japan,True,Opera/9.18.(Windows CE; ast-ES) Presto/2.9.174 Version/10.00
+2025-09-19 18:49:02,alice.smith,74.209.161.145,Brazil,True,Opera/8.80.(X11; Linux x86_64; ti-ER) Presto/2.9.179 Version/10.00
+2025-09-19 18:49:03,alice.smith,28.195.96.235,Japan,True,Mozilla/5.0 (Windows NT 4.0; ce-RU; rv:1.9.2.20) Gecko/6482-03-27 02:18:15 Firefox/9.0
+2025-09-19 18:49:04,bob.jones,217.157.102.125,UK,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2538-02-22 08:54:39 Firefox/3.6.6
+2025-09-19 18:49:05,david.brown,89.49.59.219,Japan,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)
+2025-09-19 18:49:06,alice.smith,30.9.197.110,Canada,True,Opera/9.39.(X11; Linux x86_64; ne-NP) Presto/2.9.178 Version/10.00
+2025-09-19 18:49:07,david.brown,169.76.189.98,France,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.1)
+2025-09-19 18:49:09,carol.white,149.129.114.173,Brazil,True,Opera/9.76.(X11; Linux x86_64; ar-LB) Presto/2.9.174 Version/11.00
+2025-09-19 18:49:10,carol.white,152.255.14.40,France,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/34.0.841.0 Safari/531.0"
+2025-09-19 18:49:14,bob.jones,54.173.33.19,UK,False,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.1)
+2025-09-19 18:49:15,carol.white,59.224.25.91,Canada,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.1)
+2025-09-19 18:49:16,bob.jones,210.120.236.67,Brazil,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)
+2025-09-19 18:49:17,bob.jones,165.253.163.200,Brazil,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/39.0.809.0 Mobile/71C799 Safari/535.1"
+2025-09-19 18:49:18,carol.white,101.154.216.47,Germany,True,Opera/8.71.(Windows NT 4.0; nhn-MX) Presto/2.9.182 Version/12.00
+2025-09-19 18:49:19,alice.smith,36.222.41.127,Russia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.0)
+2025-09-19 18:49:20,root,138.199.89.77,Australia,True,Opera/8.42.(X11; Linux i686; yi-US) Presto/2.9.184 Version/10.00
+2025-09-19 18:49:21,eve.davis,138.28.91.52,Iran,True,"Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/59.0.870.0 Safari/533.0"
+2025-09-19 18:49:22,alice.smith,143.65.98.223,France,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/4.1)
+2025-09-19 18:49:23,eve.davis,115.73.14.255,Iran,True,"Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/31.0.807.0 Safari/534.2"
+2025-09-19 18:49:24,bob.jones,15.61.157.243,Japan,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/3.0)
+2025-09-19 18:49:25,eve.davis,219.25.157.174,France,True,Mozilla/5.0 (Windows NT 5.1; nso-ZA; rv:1.9.1.20) Gecko/4154-01-04 00:03:36 Firefox/3.6.17
+2025-09-19 18:49:26,sysadmin,132.142.199.186,Brazil,True,"Mozilla/5.0 (iPad; CPU iPad OS 13_5_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/41.0.833.0 Mobile/54S221 Safari/536.1"
+2025-09-19 18:49:29,alice.smith,182.164.149.114,USA,False,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/4890-03-27 14:16:04 Firefox/13.0
+2025-09-19 18:49:30,root,83.198.38.167,Australia,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/35.0.868.0 Safari/532.2"
+2025-09-19 18:49:32,david.brown,88.160.48.80,Germany,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.1)
+2025-09-19 18:49:36,david.brown,5.241.37.42,UK,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/42.0.803.0 Safari/534.0"
+2025-09-19 18:49:38,alice.smith,21.7.172.120,Australia,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)
+2025-09-19 18:49:39,carol.white,162.80.97.17,Russia,True,Opera/9.96.(X11; Linux x86_64; se-NO) Presto/2.9.160 Version/11.00
+2025-09-19 18:49:40,alice.smith,18.122.181.95,France,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9597-12-21 16:16:20 Firefox/3.6.12
+2025-09-19 18:49:43,david.brown,55.238.224.207,France,True,Opera/9.60.(X11; Linux i686; ak-GH) Presto/2.9.161 Version/12.00
+2025-09-19 18:49:44,carol.white,186.68.167.90,UK,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/37.0.839.0 Mobile/39S902 Safari/536.1"
+2025-09-19 18:49:46,bob.jones,164.215.145.208,France,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_0 rv:2.0; tcy-IN) AppleWebKit/532.16.5 (KHTML, like Gecko) Version/4.0 Safari/532.16.5"
+2025-09-19 18:49:48,bob.jones,61.76.5.61,Brazil,True,Opera/9.41.(Windows NT 5.01; hi-IN) Presto/2.9.165 Version/12.00
+2025-09-19 18:49:50,carol.white,101.167.112.162,Iran,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)
+2025-09-19 18:49:51,bob.jones,202.138.64.219,Canada,True,Mozilla/5.0 (Windows NT 6.0; uk-UA; rv:1.9.2.20) Gecko/6339-07-10 22:12:35 Firefox/3.6.18
+2025-09-19 18:49:53,security_admin,61.67.230.202,France,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_6 rv:3.0; nds-DE) AppleWebKit/531.50.6 (KHTML, like Gecko) Version/5.0.4 Safari/531.50.6"
+2025-09-19 18:49:56,bob.jones,91.116.156.142,Australia,True,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.39.7 (KHTML, like Gecko) Version/4.1 Safari/535.39.7"
+2025-09-19 18:49:57,david.brown,199.46.174.39,USA,True,Opera/8.77.(Windows NT 11.0; mk-MK) Presto/2.9.163 Version/10.00
+2025-09-19 18:49:58,eve.davis,172.48.146.117,Australia,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/533.45.4 (KHTML, like Gecko) Version/5.0.5 Safari/533.45.4"
+2025-09-19 18:49:59,carol.white,202.63.70.106,Japan,True,Opera/8.80.(Windows CE; de-CH) Presto/2.9.187 Version/11.00
+2025-09-19 18:50:01,bob.jones,17.69.168.133,USA,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3 rv:5.0; li-BE) AppleWebKit/532.1.6 (KHTML, like Gecko) Version/5.0.3 Safari/532.1.6"
+2025-09-19 18:50:02,eve.davis,3.137.57.5,France,True,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/533.36.5 (KHTML, like Gecko) Version/5.1 Safari/533.36.5"
+2025-09-19 18:50:04,carol.white,47.115.188.65,Brazil,True,Opera/8.44.(Windows NT 10.0; lg-UG) Presto/2.9.163 Version/12.00
+2025-09-19 18:50:06,bob.jones,77.255.142.181,Japan,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)
+2025-09-19 18:50:07,bob.jones,192.197.179.164,North Korea,True,"Mozilla/5.0 (Windows 95) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/47.0.809.0 Safari/533.1"
+2025-09-19 18:50:10,carol.white,196.241.20.62,Australia,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_8) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/22.0.843.0 Safari/535.2"
+2025-09-19 18:50:11,alice.smith,22.42.84.118,USA,True,Opera/8.69.(X11; Linux x86_64; ml-IN) Presto/2.9.187 Version/12.00
+2025-09-19 18:50:12,bob.jones,55.237.231.64,Germany,True,Opera/9.70.(Windows NT 6.0; tg-TJ) Presto/2.9.189 Version/12.00
+2025-09-19 18:50:14,carol.white,204.56.138.63,Germany,True,Opera/8.25.(Windows NT 6.1; wal-ET) Presto/2.9.178 Version/11.00
+2025-09-19 18:50:16,alice.smith,3.61.59.96,USA,True,"Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/9.6p9129.0 Mobile/94M797 Safari/535.0"
+2025-09-19 18:50:19,eve.davis,82.250.172.167,Canada,True,Mozilla/5.0 (Android 5.0; Mobile; rv:8.0) Gecko/8.0 Firefox/8.0
+2025-09-19 18:50:20,bob.jones,178.242.156.206,Russia,False,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/18.0.834.0 Safari/533.0"
+2025-09-19 18:50:22,admin,172.90.104.106,Germany,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:50:23,alice.smith,207.122.240.100,USA,True,Opera/9.22.(X11; Linux i686; dz-BT) Presto/2.9.186 Version/12.00
+2025-09-19 18:50:26,carol.white,137.142.26.53,USA,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.1)
+2025-09-19 18:50:27,eve.davis,156.78.143.139,Brazil,True,Mozilla/5.0 (Android 7.1.1; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+2025-09-19 18:50:28,david.brown,174.25.236.241,North Korea,True,Opera/8.61.(Windows NT 5.01; sl-SI) Presto/2.9.189 Version/12.00
+2025-09-19 18:50:29,carol.white,70.225.175.135,China,True,"Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/40.0.816.0 Safari/534.2"
+2025-09-19 18:50:30,david.brown,35.140.154.218,Canada,True,Mozilla/5.0 (Windows NT 4.0; pt-PT; rv:1.9.1.20) Gecko/4763-03-21 06:30:37 Firefox/3.6.15
+2025-09-19 18:50:32,bob.jones,33.14.141.253,France,True,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/59.0.833.0 Safari/536.2"
+2025-09-19 18:50:35,david.brown,91.199.153.50,Japan,True,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.21.4 (KHTML, like Gecko) Version/5.1 Safari/533.21.4"
+2025-09-19 18:50:37,david.brown,176.217.247.227,Russia,True,Opera/8.15.(Windows 95; cs-CZ) Presto/2.9.174 Version/10.00
+2025-09-19 18:50:38,david.brown,22.77.194.162,Japan,True,"Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/14.0.865.0 Safari/533.2"
+2025-09-19 18:50:41,bob.jones,140.58.220.143,France,False,Mozilla/5.0 (Windows NT 5.0; tt-RU; rv:1.9.0.20) Gecko/6406-04-11 23:42:18 Firefox/3.6.13
+2025-09-19 18:50:42,eve.davis,121.29.2.32,USA,True,"Mozilla/5.0 (Linux; Android 4.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/33.0.835.0 Safari/533.0"
+2025-09-19 18:50:46,sysadmin,134.211.250.145,Germany,True,"Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/16.0.893.0 Mobile/85O502 Safari/535.1"
+2025-09-19 18:50:47,carol.white,69.134.232.203,USA,True,Opera/9.19.(X11; Linux x86_64; bho-IN) Presto/2.9.170 Version/11.00
+2025-09-19 18:50:48,eve.davis,187.224.55.65,North Korea,False,"Mozilla/5.0 (Linux; Android 2.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.895.0 Safari/535.2"
+2025-09-19 18:50:49,david.brown,83.200.227.107,USA,False,Opera/8.88.(X11; Linux i686; wal-ET) Presto/2.9.174 Version/10.00
+2025-09-19 18:50:50,eve.davis,119.77.47.211,Brazil,True,Opera/9.33.(X11; Linux i686; km-KH) Presto/2.9.163 Version/12.00
+2025-09-19 18:50:52,carol.white,190.231.197.63,North Korea,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/3.1)
+2025-09-19 18:50:53,carol.white,43.64.165.137,USA,True,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/14.0.822.0 Safari/534.2"
+2025-09-19 18:50:55,bob.jones,35.114.25.113,Australia,True,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_6; rv:1.9.5.20) Gecko/8968-07-06 04:41:18 Firefox/3.6.3
+2025-09-19 18:50:56,eve.davis,209.38.85.211,Canada,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; fo-FO) AppleWebKit/534.8.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6534.8.6"
+2025-09-19 18:50:57,alice.smith,25.104.195.125,France,True,Mozilla/5.0 (Windows NT 5.0; apn-IN; rv:1.9.2.20) Gecko/6462-04-14 18:19:42 Firefox/3.8
+2025-09-19 18:51:00,bob.jones,221.237.80.189,China,True,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.15.4 (KHTML, like Gecko) Version/5.0 Safari/535.15.4"
+2025-09-19 18:51:01,eve.davis,164.214.100.45,Australia,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.0)
+2025-09-19 18:51:02,eve.davis,153.80.187.119,Canada,True,"Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/24.0.871.0 Safari/531.0"
+2025-09-19 18:51:03,carol.white,79.203.164.189,Australia,True,Opera/9.12.(X11; Linux i686; as-IN) Presto/2.9.167 Version/11.00
+2025-09-19 18:51:04,alice.smith,137.89.129.206,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.2.2 (KHTML, like Gecko) Version/4.0.1 Safari/533.2.2"
+2025-09-19 18:51:05,sysadmin,156.108.207.37,UK,True,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/29.0.893.0 Safari/533.2"
+2025-09-19 18:51:06,alice.smith,31.155.171.152,USA,True,"Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/14.6g2218.0 Mobile/77E659 Safari/536.2"
+2025-09-19 18:51:08,root,81.122.168.53,Australia,True,Opera/9.54.(Windows NT 6.0; ta-LK) Presto/2.9.165 Version/10.00
+2025-09-19 18:51:09,alice.smith,171.216.128.109,France,True,Mozilla/5.0 (Windows 98; Win 9x 4.90; bs-BA; rv:1.9.2.20) Gecko/6940-12-17 01:32:26 Firefox/7.0
+2025-09-19 18:51:10,carol.white,149.92.105.162,Japan,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_9 rv:5.0; de-LI) AppleWebKit/534.2.1 (KHTML, like Gecko) Version/5.0.3 Safari/534.2.1"
+2025-09-19 18:51:11,bob.jones,155.96.21.204,USA,True,Opera/9.85.(Windows CE; tl-PH) Presto/2.9.172 Version/11.00
+2025-09-19 18:51:14,alice.smith,40.125.116.187,France,True,Opera/8.83.(Windows NT 10.0; tk-TM) Presto/2.9.173 Version/10.00
+2025-09-19 18:51:15,carol.white,34.31.251.147,Brazil,True,"Mozilla/5.0 (iPad; CPU iPad OS 13_7 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/50.0.881.0 Mobile/06F551 Safari/536.0"
+2025-09-19 18:51:17,carol.white,187.79.100.176,China,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_8) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/32.0.888.0 Safari/536.0"
+2025-09-19 18:51:18,carol.white,65.149.17.145,Australia,True,Opera/8.18.(Windows NT 11.0; gez-ET) Presto/2.9.170 Version/11.00
+2025-09-19 18:51:19,david.brown,55.92.35.244,Germany,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2 rv:5.0; am-ET) AppleWebKit/533.36.2 (KHTML, like Gecko) Version/4.1 Safari/533.36.2"
+2025-09-19 18:51:20,david.brown,204.59.8.236,Australia,True,Opera/8.87.(Windows 98; iu-CA) Presto/2.9.183 Version/11.00
+2025-09-19 18:51:21,admin,81.160.11.63,Brazil,True,Opera/9.92.(X11; Linux x86_64; ts-ZA) Presto/2.9.183 Version/11.00
+2025-09-19 18:51:23,bob.jones,204.125.196.146,France,True,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.47.2 (KHTML, like Gecko) Version/4.0.5 Safari/532.47.2"
+2025-09-19 18:51:24,alice.smith,120.222.21.139,Germany,True,Mozilla/5.0 (Android 2.2.1; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0
+2025-09-19 18:51:26,bob.jones,89.16.209.31,USA,True,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/5.0)
+2025-09-19 18:51:27,carol.white,26.161.61.207,USA,True,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/11.9d6437.0 Mobile/26W012 Safari/536.0"
+2025-09-19 18:51:29,root,164.186.16.121,USA,True,"Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/47.0.893.0 Safari/533.1"
+2025-09-19 18:51:30,security_admin,88.34.127.213,Canada,True,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/4246-08-23 00:04:38 Firefox/7.0
+2025-09-19 18:51:32,carol.white,182.52.63.224,Japan,True,Opera/9.88.(Windows NT 5.1; or-IN) Presto/2.9.187 Version/12.00
+2025-09-19 18:51:33,security_admin,115.183.36.162,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; kk-KZ) AppleWebKit/534.45.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6534.45.6"
+2025-09-19 18:51:34,alice.smith,156.117.175.125,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ak-GH) AppleWebKit/533.4.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.4.7"
+2025-09-19 18:51:37,bob.jones,68.110.214.204,Canada,True,"Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/39.0.802.0 Mobile/93K399 Safari/534.1"
+2025-09-19 18:51:39,alice.smith,122.125.194.198,Japan,True,"Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/15.0.893.0 Mobile/23M814 Safari/534.1"
+2025-09-19 18:51:40,bob.jones,6.161.80.42,UK,False,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/4.0)
+2025-09-19 18:51:41,alice.smith,45.249.115.205,North Korea,True,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9; rv:1.9.5.20) Gecko/9875-11-04 15:31:46 Firefox/3.6.10
+2025-09-19 18:51:44,carol.white,106.178.75.64,Canada,True,"Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/22.0.826.0 Mobile/65K709 Safari/532.1"
+2025-09-19 18:51:45,carol.white,143.46.97.51,Canada,True,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.30.1 (KHTML, like Gecko) Version/5.1 Safari/534.30.1"
+2025-09-19 18:51:47,carol.white,156.81.157.152,Iran,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)
+2025-09-19 18:51:48,alice.smith,75.110.220.204,Canada,True,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.20.4 (KHTML, like Gecko) Version/4.0.3 Safari/531.20.4"
+2025-09-19 18:51:51,alice.smith,174.229.133.150,France,True,Opera/9.16.(X11; Linux i686; zu-ZA) Presto/2.9.169 Version/12.00
+2025-09-19 18:51:52,carol.white,156.6.86.34,China,True,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/9.6v6218.0 Mobile/45M745 Safari/535.0"
+2025-09-19 18:51:53,alice.smith,129.34.26.72,Canada,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.1)
+2025-09-19 18:51:54,bob.jones,156.143.46.207,China,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.1)
+2025-09-19 18:51:56,carol.white,55.9.107.186,Australia,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/3.0)
+2025-09-19 18:51:59,root,15.171.125.31,China,True,Opera/8.77.(Windows 98; Win 9x 4.90; hsb-DE) Presto/2.9.182 Version/12.00
+2025-09-19 18:52:00,carol.white,126.165.214.71,France,True,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/45.0.822.0 Safari/531.2"
+2025-09-19 18:52:01,alice.smith,26.202.179.175,UK,True,Opera/8.14.(X11; Linux x86_64; kw-GB) Presto/2.9.164 Version/11.00
+2025-09-19 18:52:02,alice.smith,94.4.34.110,USA,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.1)
+2025-09-19 18:52:03,carol.white,8.109.55.227,China,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.1)
+2025-09-19 18:52:04,carol.white,81.59.6.57,UK,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; hy-AM) AppleWebKit/533.12.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6533.12.2"
+2025-09-19 18:52:06,carol.white,12.75.110.75,USA,True,"Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/13.5u8141.0 Mobile/38T320 Safari/534.0"
+2025-09-19 18:52:07,eve.davis,138.118.186.181,Japan,True,Opera/8.94.(Windows 95; tk-TM) Presto/2.9.190 Version/12.00
+2025-09-19 18:52:08,alice.smith,213.38.156.145,North Korea,True,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5 rv:2.0; ku-TR) AppleWebKit/535.13.4 (KHTML, like Gecko) Version/4.0 Safari/535.13.4"
+2025-09-19 18:52:09,carol.white,152.132.203.200,Russia,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.1)
+2025-09-19 18:52:11,david.brown,198.231.245.77,UK,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.1)
+2025-09-19 18:52:12,david.brown,207.219.54.249,Iran,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.0)
+2025-09-19 18:52:13,alice.smith,57.179.241.53,Canada,True,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.35.2 (KHTML, like Gecko) Version/4.1 Safari/533.35.2"
+2025-09-19 18:52:14,david.brown,78.98.26.87,Germany,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; hy-AM) AppleWebKit/533.12.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6533.12.2"
+2025-09-19 18:52:16,eve.davis,144.67.35.73,Japan,True,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/27.0.895.0 Safari/531.0"
+2025-09-19 18:52:17,bob.jones,65.28.253.82,France,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/47.0.875.0 Safari/536.1"
+2025-09-19 18:52:19,carol.white,217.218.187.147,Brazil,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/42.0.827.0 Mobile/50O259 Safari/535.0"
+2025-09-19 18:52:21,david.brown,164.141.189.169,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ig-NG) AppleWebKit/535.14.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6535.14.7"
+2025-09-19 18:52:23,alice.smith,28.5.156.213,USA,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9; rv:1.9.6.20) Gecko/8099-04-26 17:02:22 Firefox/13.0
+2025-09-19 18:52:24,alice.smith,36.18.96.148,USA,False,Opera/8.12.(Windows 98; gl-ES) Presto/2.9.184 Version/11.00
+2025-09-19 18:52:25,carol.white,193.22.132.22,Canada,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/5.1)
+2025-09-19 18:52:28,david.brown,146.92.123.8,UK,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/30.0.885.0 Safari/531.1"
+2025-09-19 18:52:29,alice.smith,209.97.52.64,China,True,Opera/8.21.(X11; Linux x86_64; unm-US) Presto/2.9.161 Version/10.00
+2025-09-19 18:52:30,eve.davis,124.189.56.107,China,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_1 rv:5.0; sq-ML) AppleWebKit/531.6.3 (KHTML, like Gecko) Version/5.0 Safari/531.6.3"
+2025-09-19 18:52:32,eve.davis,33.144.83.38,Germany,True,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_2; rv:1.9.2.20) Gecko/4765-01-08 19:06:03 Firefox/11.0
+2025-09-19 18:52:33,alice.smith,4.156.231.53,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; xh-ZA) AppleWebKit/531.18.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6531.18.4"
+2025-09-19 18:52:35,alice.smith,78.185.219.19,UK,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_9) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/52.0.880.0 Safari/532.1"
+2025-09-19 18:52:37,bob.jones,192.135.235.44,Japan,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.1)
+2025-09-19 18:52:38,david.brown,213.145.148.25,Russia,True,Opera/8.97.(Windows NT 11.0; ka-GE) Presto/2.9.164 Version/12.00
+2025-09-19 18:52:41,bob.jones,136.87.191.251,Brazil,True,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.36.3 (KHTML, like Gecko) Version/4.0 Safari/531.36.3"
+2025-09-19 18:52:43,eve.davis,112.70.10.1,Japan,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2 rv:6.0; oc-FR) AppleWebKit/534.35.5 (KHTML, like Gecko) Version/5.1 Safari/534.35.5"
+2025-09-19 18:52:44,carol.white,39.196.111.179,Germany,True,"Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.36.5 (KHTML, like Gecko) Version/4.0.5 Safari/533.36.5"
+2025-09-19 18:52:45,david.brown,168.147.130.38,USA,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/29.0.875.0 Mobile/87R381 Safari/536.1"
+2025-09-19 18:52:48,david.brown,129.244.80.149,Australia,True,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/39.0.851.0 Mobile/75H107 Safari/535.1"
+2025-09-19 18:52:50,bob.jones,99.248.163.161,Australia,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; kok-IN) AppleWebKit/534.6.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.6.3"
+2025-09-19 18:52:51,alice.smith,159.71.57.136,France,True,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/24.0.834.0 Safari/532.0"
+2025-09-19 18:52:52,eve.davis,222.238.215.98,Australia,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4 rv:5.0; kk-KZ) AppleWebKit/534.38.2 (KHTML, like Gecko) Version/5.0.5 Safari/534.38.2"
+2025-09-19 18:52:54,alice.smith,24.13.149.166,Germany,True,"Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/23.0.831.0 Safari/531.0"
+2025-09-19 18:52:58,carol.white,155.22.248.204,China,True,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_7) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/55.0.832.0 Safari/532.1"
+2025-09-19 18:52:59,eve.davis,19.12.139.146,Australia,True,Mozilla/5.0 (Windows NT 6.1; lv-LV; rv:1.9.0.20) Gecko/2118-09-22 17:02:29 Firefox/3.8
+2025-09-19 18:53:02,david.brown,159.173.25.212,Iran,True,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/3.1)
+2025-09-19 18:53:03,carol.white,65.246.126.46,UK,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.0)
+2025-09-19 18:53:05,eve.davis,104.79.200.237,Brazil,True,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1)
+2025-09-19 18:53:06,alice.smith,212.66.84.45,Australia,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/5.1)
+2025-09-19 18:53:07,carol.white,70.176.146.147,USA,True,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/55.0.824.0 Safari/534.2"
+2025-09-19 18:53:08,eve.davis,140.219.48.190,China,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/33.0.884.0 Mobile/09W773 Safari/534.2"
+2025-09-19 18:53:09,bob.jones,101.228.17.102,Germany,True,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_0; rv:1.9.5.20) Gecko/7066-04-20 09:14:55 Firefox/3.6.17
+2025-09-19 18:53:10,david.brown,5.103.221.246,Germany,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0)
+2025-09-19 18:53:12,alice.smith,209.157.204.194,Japan,True,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.13.7 (KHTML, like Gecko) Version/4.1 Safari/532.13.7"
+2025-09-19 18:53:14,carol.white,205.67.250.207,Russia,True,Opera/9.18.(X11; Linux i686; nn-NO) Presto/2.9.171 Version/10.00
+2025-09-19 18:53:15,carol.white,25.77.13.84,Japan,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/47.0.858.0 Mobile/31J157 Safari/532.2"
+2025-09-19 18:53:16,david.brown,122.153.118.234,France,True,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/4683-08-20 12:01:04 Firefox/3.8
+2025-09-19 18:53:20,security_admin,9.32.108.159,Australia,True,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/59.0.831.0 Mobile/94D963 Safari/532.1"
+2025-09-19 18:53:21,alice.smith,80.245.113.210,USA,True,Opera/8.87.(Windows 98; Win 9x 4.90; ca-FR) Presto/2.9.190 Version/10.00
+2025-09-19 18:53:22,sysadmin,146.98.127.230,Canada,True,"Mozilla/5.0 (Linux; Android 6.0.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/60.0.862.0 Safari/536.2"
+2025-09-19 18:53:24,eve.davis,65.202.219.220,France,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; it-CH) AppleWebKit/533.22.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6533.22.3"
+2025-09-19 18:53:25,david.brown,41.85.182.97,Germany,True,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.0)
+2025-09-19 18:53:27,carol.white,155.229.112.230,Japan,False,Opera/9.53.(Windows NT 6.2; ig-NG) Presto/2.9.169 Version/11.00
+2025-09-19 18:53:28,bob.jones,195.244.255.195,Australia,True,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_5 rv:6.0; lv-LV) AppleWebKit/535.45.6 (KHTML, like Gecko) Version/5.1 Safari/535.45.6"
+2025-09-19 18:53:31,david.brown,157.119.133.48,Brazil,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ms-MY) AppleWebKit/534.21.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6534.21.1"
+2025-09-19 18:53:33,eve.davis,193.127.164.211,USA,True,Opera/9.54.(X11; Linux i686; the-NP) Presto/2.9.173 Version/11.00
+2025-09-19 18:53:34,eve.davis,116.175.125.123,Japan,True,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.1)
+2025-09-19 18:53:36,bob.jones,203.254.117.19,USA,True,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.44.3 (KHTML, like Gecko) Version/5.0.1 Safari/532.44.3"
+2025-09-19 18:53:37,david.brown,189.112.94.110,Japan,True,Opera/8.63.(X11; Linux x86_64; mhr-RU) Presto/2.9.181 Version/11.00
+2025-09-19 18:53:38,root,178.144.109.79,France,True,Mozilla/5.0 (Windows 98; Win 9x 4.90; ce-RU; rv:1.9.0.20) Gecko/9476-01-01 08:46:10 Firefox/14.0
+2025-09-19 18:53:40,david.brown,1.90.211.162,UK,True,Opera/8.18.(X11; Linux x86_64; the-NP) Presto/2.9.175 Version/10.00
+2025-09-19 18:53:41,eve.davis,100.144.37.79,Japan,True,Opera/9.54.(X11; Linux x86_64; ayc-PE) Presto/2.9.180 Version/12.00
+2025-09-19 18:53:42,bob.jones,15.72.247.74,Germany,True,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nhn-MX) AppleWebKit/531.26.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.26.7"
+2025-09-19 18:53:44,eve.davis,74.1.143.50,Australia,False,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/531.42.5 (KHTML, like Gecko) Version/4.1 Safari/531.42.5"
+2025-09-19 18:53:45,eve.davis,114.188.98.50,France,True,Mozilla/5.0 (Windows NT 5.2; zu-ZA; rv:1.9.0.20) Gecko/8070-04-05 04:24:44 Firefox/14.0
+2025-09-19 18:53:47,alice.smith,136.51.41.51,Australia,True,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.14.2 (KHTML, like Gecko) Version/5.0.3 Safari/532.14.2"
+2025-09-19 18:53:49,bob.jones,113.73.205.145,Iran,True,Opera/8.52.(Windows 98; oc-FR) Presto/2.9.165 Version/10.00
+2025-09-19 18:53:51,eve.davis,102.205.212.66,Russia,True,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.7.3 (KHTML, like Gecko) Version/5.0 Safari/534.7.3"

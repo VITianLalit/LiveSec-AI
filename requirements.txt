@@ -1,0 +1,11 @@
+pathway
+streamlit
+openai
+pandas
+numpy
+plotly
+requests
+python-dotenv
+faker
+colorama
+watchdog
